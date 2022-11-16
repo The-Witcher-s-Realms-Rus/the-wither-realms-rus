@@ -1,0 +1,2769 @@
+﻿l_english:
+ TITLE_NAME:0 "$NAME$"
+ TITLE_TIERED_NAME:0 "$TIER|U$ of $NAME$"
+ TITLE_CLAN_TIERED_NAME:0 "the $NAME$ $TIER|U$"
+ TITLE_CLAN_TIERED_WITH_UNDERLYING_NAME:0 "the $NAME$ $TIER|U$ #F ($TIER|U$ of $BASE_NAME$) #!"
+ TITLE_TIER_AS_NAME:0 "$TIER|U$"
+
+ e_northern_realms_article:0 "the "
+ e_northern_realms:0 "Northern Realms" # Canon
+ e_northern_realms_adj:0 "Nordling" # Canon
+
+ k_poviss:0 "Poviss" # Canon
+ k_poviss_adj:0 "Povisi"
+
+ d_poviss:0 "Poviss" # Canon
+ d_poviss_adj:0 "Povisi"
+ d_thwyth:0 "Thwyth" # Canon
+ d_thwyth_adj:0 "Thwythian"
+ d_vanis:0 "Vanis" # Canon
+ d_vanis_adj:0 "Vanisi"
+
+ c_kontupoj:0 "Kontupoj"
+ c_kontupoj_adj:0 "Kontupoji"
+ c_starhemberg:0 "Starhemberg" # Canon
+ c_starhemberg_adj:0 "Starhemberger"
+ c_parik:0 "Parik"
+ c_parik_adj:0 "Pariki"
+ c_seren:0 "Seren" # Canon
+ c_seren_adj:0 "Sereni"
+ c_inis_porhoet:0 "Inis Porhoet" # Canon
+ c_inis_porhoet_adj:0 "Porhoetian"
+ c_pielin:0 "Pielin"
+ c_pielin_adj:0 "Pielinian"
+ c_thwyth:0 "Thwyth" # Canon
+ c_thwyth_adj:0 "Thwythian"
+ c_hamenlin:0 "Hamenlin"
+ c_hamenlin_adj:0 "Hamenlinian"
+ c_pont_vanis:0 "Pont Vanis" # Canon
+ c_pont_vanis_adj:0 "Vanisi"
+ c_sulkav:0 "Sulkav"
+ c_sulkav_adj:0 "Sulkavi"
+ c_limink:0 "Limink"
+ c_limink_adj:0 "Liminki"
+
+ k_kovir:0 "Kovir" # Canon
+ k_kovir_adj:0 "Koviri"
+
+ d_narok:0 "Narok" # Canon
+ d_narok_adj:0 "Narokan"
+ d_praxeda:0 "Praxeda" # Canon
+ d_praxeda_adj:0 "Praxedan"
+ d_velhad:0 "Velhad" # Canon
+ d_velhad_adj:0 "Velhadan"
+ d_talgar:0 "Talgar" # Canon
+ d_talgar_adj:0 "Talgaran"
+
+ c_rakverelin:0 "Rakverelin" # Canon
+ c_rakverelin_adj:0 "Rakvereliner"
+ c_narok:0 "Narok" # Canon
+ c_narok_adj:0 "Narokan"
+ c_aedd_gynvael:0 "Aedd Gynvael" # Canon
+ c_aedd_gynvael_adj:0 "Gynvaelian"
+ c_lan_exeter:0 "Lan Exeter" # Canon
+ c_lan_exeter_adj:0 "Exonian"
+ c_daugav:0 "Daugav"
+ c_daugav_adj:0 "Daugavan"
+ c_aluksne:0 "Aluksne"
+ c_aluksne_adj:0 "Aluksnian"
+ c_velhad:0 "Velhad" # Canon
+ c_velhad_adj:0 "Velhadan"
+ c_kandava:0 "Kandava"
+ c_kandava_adj:0 "Kandavan"
+ c_duvzare:0 "Duvzare"
+ c_duvzare_adj:0 "Duvzarian"
+ c_reval:0 "Reval"
+ c_reval_adj:0 "Revalan"
+ c_talgar:0 "Talgar" # Canon
+ c_talgar_adj:0 "Talgaran"
+ c_osel:0 "Osel"
+ c_osel_adj:0 "Oselian"
+ c_vidzeme:0 "Vidzeme"
+ c_vidzeme_adj:0 "Vidzemian"
+ c_salacgriva:0 "Salacgriva"
+ c_salacgriva_adj:0 "Salacgrivan"
+
+ k_hengfors:0 "Hengfors" # Canon
+ k_hengfors_adj:0 "Hengforsian"
+
+ d_sturefors:0 "Sturefors" # Canon
+ d_sturefors_adj:0 "Stureforsian"
+ d_creyden:0 "Creyden" # Canon
+ d_creyden_adj:0 "Creydenian"
+ d_malleore:0 "Malleore" # Canon
+ d_malleore_adj:0 "Malleorian"
+ d_caingorn:0 "Caingorn" # Canon
+ d_caingorn_adj:0 "Caingornian"
+ d_creigiau:0 "Creigiau" # Canon
+ d_creigiau_adj:0 "Creigiaun"
+
+ c_sturefors:0 "Sturefors" # Canon
+ c_sturefors_adj:0 "Stureforsian"
+ c_raseinai:0 "Raseinai"
+ c_raseinai_adj:0 "Raseinain"
+ c_scalov:0 "Scalov"
+ c_scalov_adj:0 "Scalovian"
+ c_memel:0 "Memel"
+ c_memel_adj:0 "Memelian"
+ c_creyden:0 "Creyden" # Canon
+ c_creyden_adj:0 "Creydenian"
+ c_kernave:0 "Kernave"
+ c_kernave_adj:0 "Kernavian"
+ c_tancar:0 "Tancar" # Canon
+ c_tancar_adj:0 "Tancaran"
+ c_malleore:0 "Malleore" # Canon
+ c_malleore_adj:0 "Malleorean"
+ c_traka:0 "Traka"
+ c_traka_adj:0 "Trakan"
+ c_yatvyagi:0 "Yatviagi"
+ c_yatvyagi_adj:0 "Yatviagian"
+ c_odmarden:0 "Odmarden"
+ c_odmarden_adj:0 "Odmardener"
+ c_talje:0 "Talje"
+ c_talje_adj:0 "Taljean"
+ c_hengfors:0 "Hengfors" # Canon
+ c_hengfors_adj:0 "Hengforsian"
+ c_caingorn:0 "Caingorn" # Canon
+ c_caingorn_adj:0 "Caingornian"
+ c_friskdal:0 "Friskdal"
+ c_friskdal_adj:0 "Friskdalian"
+ c_molungr:0 "Molungr"
+ c_molungr_adj:0 "Molungran"
+ c_creigiau:0 "Creigiau" # Canon
+ c_creigiau_adj:0 "Creigiaun"
+ c_opsten:0 "Opsten"
+ c_opsten_adj:0 "Opstener"
+ c_dal:0 "Dal"
+ c_dal_adj:0 "Dalian"
+ 
+ k_jamurlak:0 "Jamurlak" # Canon
+ k_jamurlak_adj:0 "Jamurlakian"
+
+ d_jamurlak:0 "Jamurlak" # Canon
+ d_jamurlak_adj:0 "Jamurlakian"
+ d_yspaden:0 "Yspaden" # Canon
+ d_yspaden_adj:0 "Yspadenian"
+ d_mirt:0 "Mirt" # Canon
+ d_mirt_adj:0 "Mirthean"
+
+ c_jamurlak:0 "Jamurlak" # Canon
+ c_jamurlak_adj:0 "Jamurlakian"
+ c_graudenz:0 "Graudenz"
+ c_graudenz_adj:0 "Graudenzian"
+ c_kwedis:0 "Kwedis"
+ c_kwedis_adj:0 "Kwedisian"
+ c_luton:0 "Luton" # Canon
+ c_luton_adj:0 "Lutonski"
+ c_yspaden:0 "Yspaden" # Canon
+ c_yspaden_adj:0 "Yspadenian"
+ c_mohrungen:0 "Mohrungen"
+ c_mohrungen_adj:0 "Mohrungener"
+ c_blaviken:0 "Blaviken"
+ c_blaviken_adj:0 "Blavikener"
+ c_bartenstein:0 "Bartenstein"
+ c_bartenstein_adj:0 "Bartensteiner"
+ c_mirt:0 "Mirt" # Canon
+ c_mirt_adj:0 "Mirthean"
+ c_welawa:0 "Welawa"
+ c_welawa_adj:0 "Welawan"
+ c_krolewiec:0 "Krolewiec"
+ c_krolewiec_adj:0 "Krolewiecian"
+ c_morgraig:0 "Morgraig" # Canon
+ c_morgraig_adj:0 "Morgraigan"
+
+ k_redania:0 "Redania" # Canon
+ k_redania_adj:0 "Redanian"
+
+ d_troy:0 "Troy" # Canon
+ d_troy_adj:0 "Trojan"
+ d_tridam:0 "Tridam" # Canon
+ d_tridam_adj:0 "Tridammer"
+ d_crinfrid:0 "Crinfrid" # Canon
+ d_crinfrid_adj:0 "Crinfridian"
+ d_ghelibol:0 "Ghelibol" # Canon
+ d_ghelibol_adj:0 "Ghelibolian"
+ d_roggeven:0 "Roggeven" # Canon
+ d_roggeven_adj:0 "Roggevenner"
+ d_nimnar:0 "Nimnar" # Canon
+ d_nimnar_adj:0 "Nimnaran"
+ d_duppa:0 "Duppa" # Canon
+ d_duppa_adj:0 "Duppan"
+ d_tretogor:0 "Tretogor" # Canon
+ d_tretogor_adj:0 "Tretogorian"
+ d_drakenborg:0 "Drakenborg" # Canon
+ d_drakenborg_adj:0 "Drakenborger"
+ d_novigrad:0 "Novigrad" # Canon
+ d_novigrad_adj:0 "Novigradian"
+ d_oxenfurt:0 "Oxenfurt" # Canon
+ d_oxenfurt_adj:0 "Oxenfurter"
+ d_denesle:0 "Denesle" # Canon
+ d_denesle_adj:0 "Deneslian"
+ d_rinde:0 "Rinde" # Canon
+ d_rinde_adj:0 "Rindean"
+ d_murivel:0 "Murivel" # Canon
+ d_murivel_adj:0 "Murivelian"
+ d_egremont:0 "Egremont" # Canon
+ d_egremont_adj:0 "Egremontarian"
+
+ c_baldhorn:0 "Baldhorn" # Canon
+ c_baldhorn_adj:0 "Baldhornese"
+ c_troy:0 "Troy" # Canon
+ c_troy_adj:0 "Trojan"
+ c_wolin:0 "Wolin"
+ c_wolin_adj:0 "Woliner"
+ c_goleniow:0 "Goleniow"
+ c_goleniow_adj:0 "Goleniowian"
+ c_tridam:0 "Tridam" # Canon
+ c_tridam_adj:0 "Tridammer"
+ c_zehden:0 "Zehden"
+ c_zehden_adj:0 "Zehdenian"
+ c_czaplinek:0 "Czaplinek"
+ c_czaplinek_adj:0 "Czaplinekian"
+ c_belgard:0 "Belgard"
+ c_belgard_adj:0 "Belgardian"
+ c_crinfrid:0 "Crinfrid" # Canon
+ c_crinfrid_adj:0 "Crinfridian"
+ c_santok:0 "Santok"
+ c_santok_adj:0 "Santokan"
+ c_arnswalde:0 "Arnswalde"
+ c_arnswalde_adj:0 "Arnswaldian"
+ c_esteken:0 "Esteken" # Canon
+ c_esteken_adj:0 "Estekener"
+ c_ghelibol:0 "Ghelibol" # Canon
+ c_ghelibol_adj:0 "Ghelibolian"
+ c_bytow:0 "Bytow"
+ c_bytow_adj:0 "Bytowan"
+ c_roggeven:0 "Roggeven" # Canon
+ c_roggeven_adj:0 "Roggevener"
+ c_schwetz:0 "Schwetz"
+ c_schwetz_adj:0 "Schwetzan"
+ c_tuchowna:0 "Tuchowna"
+ c_tuchowna_adj:0 "Tuchownan"
+ c_ruyter:0 "Ruyter" # Canon
+ c_ruyter_adj:0 "Ruyterian"
+ c_wilzia:0 "Wilzia"
+ c_wilzia_adj:0 "Wilzian"
+ c_tangermunde:0 "Tangermunde"
+ c_tangermunde_adj:0 "Tangermundian"
+ c_hevellia:0 "Hevellia"
+ c_hevellia_adj:0 "Hevellian"
+ c_prenzlau:0 "Prenzlau"
+ c_prenzlau_adj:0 "Prenzlaun"
+ c_kolsztyn:0 "Kolsztyn"
+ c_kolsztyn_adj:0 "Kolsztynian"
+ c_bochnia:0 "Bochnia"
+ c_bochnia_adj:0 "Bochnian"
+ c_andomerska:0 "Andomerska"
+ c_andomerska_adj:0 "Andomerskan"
+ c_tretogor:0 "Tretogor" # Canon
+ c_tretogor_adj:0 "Tretogorian"
+ c_radomska:0 "Radomska"
+ c_radomska_adj:0 "Radomskan"
+ c_lubelska:0 "Lubelska"
+ c_lubelska_adj:0 "Lubelskan"
+ c_zopnanska:0 "Zopnanska"
+ c_zopnanska_adj:0 "Zopnanskan"
+ c_drakenborg:0 "Drakenborg" # Canon
+ c_drakenborg_adj:0 "Drakenborger"
+ c_lauterpacht:0 "Lauterpacht" # Canon
+ c_lauterpacht_adj:0 "Lauterpachtian"
+ c_gniez:0 "Gniez"
+ c_gniez_adj:0 "Gniezian"
+ c_pyzdr:0 "Pyzdr"
+ c_pyzdr_adj:0 "Pyzdran"
+ c_novigrad:0 "Novigrad" # Canon
+ c_novigrad_adj:0 "Novigradian"
+ c_pagorek:0 "Pagorek"
+ c_pagorek_adj:0 "Pagorekian"
+ c_oxenfurt:0 "Oxenfurt" # Canon
+ c_oxenfurt_adj:0 "Oxenfurter"
+ c_zuetzer:0 "Zuetzer" # Canon
+ c_zuetzer_adj:0 "Zuetzeran"
+ c_everec:0 "Everec" # Canon
+ c_everec_adj:0 "Everec"
+ c_denesle:0 "Denesle" # Canon
+ c_denesle_adj:0 "Deneslian"
+ c_koscian:0 "Koscian"
+ c_koscian_adj:0 "Koscianese"
+ c_foam:0 "Piana" # Canon
+ c_foam_adj:0 "Pianan"
+ c_zlota:0 "Zlota"
+ c_zlota_adj:0 "Zlotan"
+ c_zliwitz:0 "Zliwitz"
+ c_zliwitz_adj:0 "Zliwitzer"
+ c_rinde:0 "Rinde" # Canon
+ c_rinde_adj:0 "Rindean"
+ c_wyszgor:0 "Wyszgor"
+ c_wyszgor_adj:0 "Wyszgorian"
+ c_lowicz:0 "Lowicz"
+ c_lowicz_adj:0 "Lowiczan"
+ c_murivel:0 "Murivel" # Canon
+ c_murivel_adj:0 "Murivelian"
+ c_rozan:0 "Rozan"
+ c_rozan_adj:0 "Rozanese"
+ c_strehlitz:0 "Strehlitz"
+ c_strehlitz_adj:0 "Strehlitzer"
+ c_olawa:0 "Olawa"
+ c_olawa_adj:0 "Olawan"
+ c_egremont:0 "Egremont" # Canon
+ c_egremont_adj:0 "Egremontian"
+ c_montecalvo:0 "Montecalvo" # Canon
+ c_montecalvo_adj:0 "Montecalvoan"
+ c_teschen:0 "Teschen"
+ c_teschen_adj:0 "Teschener"
+ c_raciborz:0 "Raciborz"
+ c_raciborz_adj:0 "Raciborzan"
+ c_lubliniec:0 "Lubliniec"
+ c_lubliniec_adj:0 "Lubliniecian"
+
+ k_vespaden:0 "Vespaden" # Canon
+ k_vespaden_adj:0 "Vespadeni"
+
+ d_vespaden:0 "Vespaden" # Canon
+ d_vespaden_adj:0 "Vespadeni"
+ d_heigard:0 "Heigard" # Canon
+ d_heigard_adj:0 "Heigardian"
+ d_yarsbor:0 "Yarsbor" # Canon
+ d_yarsbor_adj:0 "Yarsboran"
+ d_chiava:0 "Chiava"
+ d_chiava_adj:0 "Chiavan"
+ d_gwenllech:0 "Gwenllech" # Canon
+ d_gwenllech_adj:0 "Gwenllechian"
+ d_hertch:0 "Hertch" # Canon
+ d_hertch_adj:0 "Hertchian"
+
+ c_vespaden:0 "Vespaden" # Canon
+ c_vespaden_adj:0 "Vespadeni"
+ c_lod:0 "Lod" # Canon
+ c_lod_adj:0 "Lodian"
+ c_rivne:0 "Rivne"
+ c_rivne_adj:0 "Rivnean"
+ c_drohiczyn:0 "Drohiczyn"
+ c_drohiczyn_adj:0 "Drohiczynian"
+ c_heigard:0 "Heigard" # Canon
+ c_heigard_adj:0 "Heigarder"
+ c_kolomyia:0 "Kolomyia"
+ c_kolomyia_adj:0 "Kolomyian"
+ c_zvenihorod:0 "Zvenihorod"
+ c_zvenihorod_adj:0 "Zvenihorodian"
+ c_yarsbor:0 "Yarsbor" # Canon
+ c_yarsbor_adj:0 "Yarsboran"
+ c_chortkiv:0 "Chortkiv"
+ c_chortkiv_adj:0 "Chortkivian"
+ c_kholm:0 "Kholm"
+ c_kholm_adj:0 "Kholman"
+ c_suteysk:0 "Suteysk"
+ c_suteysk_adj:0 "Suteyskan"
+ c_liubach:0 "Liubach"
+ c_liubach_adj:0 "Liubachan"
+ c_lizhensk:0 "Lizhensk"
+ c_lizhensk_adj:0 "Lizhenskan"
+ c_bilhorod:0 "Bilhorod"
+ c_bilhorod_adj:0 "Bilhorodian"
+ c_rastov:0 "Rastov"
+ c_rastov_adj:0 "Rastovan"
+ c_chortolis:0 "Chortolis"
+ c_chortolis_adj:0 "Chortolisite"
+ c_radynka:0 "Radynka"
+ c_radynka_adj:0 "Radynkan"
+ c_skvirka:0 "Skvirka"
+ c_skvirka_adj:0 "Skvirkan"
+ c_ovruch:0 "Ovruch"
+ c_ovruch_adj:0 "Ovruchian"
+ c_naroulia:0 "Naroulia"
+ c_naroulia_adj:0 "Naroulian"
+ c_priluk:0 "Priluk"
+ c_priluk_adj:0 "Prilukian"
+ c_ard_muirehen:0 "Upper Morhen" # Canon
+ c_ard_muirehen_adj:0 "Morhenian"
+
+ k_kaedwen:0 "Kaedwen" # Canon
+ k_kaedwen_adj:0 "Kaedweni"
+
+ d_poltava:0 "Poltava"
+ d_poltava_adj:0 "Poltavan"
+ d_daevon:0 "Daevon" # Canon
+ d_daevon_adj:0 "Daevonian"
+ d_vyr:0 "Vyr"
+ d_vyr_adj:0 "Vyran"
+ d_rylsk:0 "Rylsk"
+ d_rylsk_adj:0 "Rylskan"
+ d_leyda:0 "Leyda" # Canon
+ d_leyda_adj:0 "Leydan"
+ d_ard_carraigh:0 "Carraigh" # Canon
+ d_ard_carraigh_adj:0 "Carraighan"
+ d_lixela:0 "Lixela" # Canon
+ d_lixela_adj:0 "Lixelan"
+ d_ban_glean:0 "Ban Glean" # Canon
+ d_ban_glean_adj:0 "Ban Gleanean"
+ d_ban_ard:0 "Ban Ard" # Canon
+ d_ban_ard_adj:0 "Ban Ardean"
+
+ c_lida:0 "Lida"
+ c_lida_adj:0 "Lidan"
+ c_viskas:0 "Viskas"
+ c_viskas_adj:0 "Viskan"
+ c_vattweir:0 "Vattweir"
+ c_vattweir_adj:0 "Vattweiran"
+ c_daevon:0 "Daevon" # Canon
+ c_daevon_adj:0 "Daevonian"
+ c_glevissig:0 "Glevissig" # Canon
+ c_glevissig_adj:0 "Glevissiger"
+ c_zlobin:0 "Zlobin"
+ c_zlobin_adj:0 "Zlobinian"
+ c_lohojsk:0 "Lohojsk"
+ c_lohojsk_adj:0 "Lohojskan"
+ c_drutsk:0 "Drutsk"
+ c_drutsk_adj:0 "Drutskan"
+ c_drysa:0 "Drysa"
+ c_drysa_adj:0 "Drysan"
+ c_glean_muirehen:0 "Lower Morhen" # Canon
+ c_glean_muirehen_adj:0 "Morhenian"
+ c_rylsk:0 "Rylsk"
+ c_rylsk_adj:0 "Rylskan"
+ c_vetrino:0 "Vetrino"
+ c_vetrino_adj:0 "Vetrinian"
+ c_dorogobyz:0 "Dorogobyz"
+ c_dorogobyz_adj:0 "Dorogobyzian"
+ c_veliz:0 "Veliz"
+ c_veliz_adj:0 "Velizan"
+ c_leyda:0 "Leyda" # Canon
+ c_leyda_adj:0 "Leydan"
+ c_zubstov:0 "Zubstov"
+ c_zubstov_adj:0 "Zubstovan"
+ c_sudogda:0 "Sudogda"
+ c_sudogda_adj:0 "Sudogdan"
+ c_zuburov:0 "Zuburov"
+ c_zuburov_adj:0 "Zuburovan"
+ c_ard_carraigh:0 "Ard Carraigh" # Canon
+ c_ard_carraigh_adj:0 "Ard Carraighan"
+ c_gavrilovsk:0 "Gavrilovsk"
+ c_gavrilovsk_adj:0 "Gavrilovskan"
+ c_serpukhov:0 "Serpukhov"
+ c_serpukhov_adj:0 "Serpukhovan"
+ c_klepiki:0 "Klepiki"
+ c_klepiki_adj:0 "Klepikian"
+ c_vyksa:0 "Vyksa"
+ c_vyksa_adj:0 "Vyksan"
+ c_makariev:0 "Makarievan"
+ c_makariev_adj:0 "Makarievan"
+ c_kostroma:0 "Kostroma"
+ c_kostroma_adj:0 "Kostroman"
+ c_galich:0 "Galich"
+ c_galich_adj:0 "Galichan"
+ c_ban_glean:0 "Ban Glean" # Canon
+ c_ban_glean_adj:0 "Ban Gleanean"
+ c_korelsk:0 "Korelsk"
+ c_korelsk_adj:0 "Korelskan"
+ c_malenga:0 "Malenga"
+ c_malenga_adj:0 "Malengan"
+ c_ban_ard:0 "Ban Ard" # Canon
+ c_ban_ard_adj:0 "Ban Ardean"
+ c_yarnema:0 "Yarnema"
+ c_yarnema_adj:0 "Yarneman"
+ c_pelsina:0 "Pelsina"
+ c_pelsina_adj:0 "Pelsinan"
+ c_tischna:0 "Tischna"
+ c_tischna_adj:0 "Tischnan"
+ c_loc_muinne:0 "Loc Muinne" # Canon
+ c_loc_muinne_adj:0 "Muinnean"
+
+k_temeria:0 "Temeria" # Canon
+k_temeria_adj:0 "Temerian"
+
+d_velen:0 "Velen" # Canon
+d_velen_adj:0 "Velener"
+d_valette:0 "Valette" # Canon
+d_valette_adj:0 "Valettan"
+d_houtburg:0 "Houtburg" # Canon
+d_houtburg_adj:0 "Houtburger"
+d_dorndal:0 "Dorndal" # Canon
+d_dorndal_adj:0 "Dorndallian"
+d_ellander:0 "Ellander" # Canon
+d_ellander_adj:0 "Ellandrian"
+d_gors_velen:0 "Gors Velen" # Canon
+d_gors_velen_adj:0 "Gors Velener"
+d_anchor:0 "Anchor" # Canon
+d_anchor_adj:0 "Anchorite"
+d_dorian:0 "Dorian" # Canon
+d_dorian_adj:0 "Dorianan"
+d_ivalo:0 "Ivalo" # Canon
+d_ivalo_adj:0 "Ivalan"
+d_vizima:0 "Vizima" # Canon
+d_vizima_adj:0 "Viziman"
+d_maribor:0 "Maribor" # Canon
+d_maribor_adj:0 "Mariborian"
+d_carreras:0 "Carreras" # Canon
+d_carreras_adj:0 "Carreran"
+d_garramone:0 "Garramone" # Canon
+d_garramone_adj:0 "Garramonian"
+d_mayena:0 "Mayena" # Canon
+d_mayena_adj:0 "Mayenan"
+d_ina:0 "Ina" # Canon
+d_ina_adj:0 "Inan"
+
+c_acorn_bay:0 "Acorn Bay" # Canon
+c_acorn_bay_adj:0 "Acorn"
+c_velen:0 "Velen" # Canon
+c_velen_adj:0 "Velener"
+c_kimbolt:0 "Kimbolt" # Canon
+c_kimbolt_adj:0 "Kimboltian"
+c_valette:0 "Valette" # Canon
+c_valette_adj:0 "Valettan"
+c_wunsdorf:0 "Wunsdorf"
+c_wunsdorf_adj:0 "Wunsdorfian"
+c_dassel:0 "Dassel"
+c_dassel_adj:0 "Dasselian"
+c_homburg:0 "Homburg"
+c_homburg_adj:0 "Homburger"
+c_houtburg:0 "Houtburg" # Canon
+c_houtburg_adj:0 "Houtburger"
+c_vechta:0 "Vechta"
+c_vechta_adj:0 "Vechtan"
+c_meppen:0 "Meppen"
+c_meppen_adj:0 "Meppenian"
+c_maravel:0 "Maravel" # Canon
+c_maravel_adj:0 "Maravelian"
+c_dorndal:0 "Dorndal" # Canon
+c_dorndal_adj:0 "Dorndalian"
+c_nessvelt:0 "Nessvelt" # Canon
+c_nessvelt_adj:0 "Nessveltian"
+c_tailles:0 "Tailles" # Canon
+c_tailles_adj:0 "Taillois"
+c_ellander:0 "Ellander" # Canon
+c_ellander_adj:0 "Ellandrian"
+c_stendal:0 "Stendal"
+c_stendal_adj:0 "Stendalian"
+c_white_bridge:0 "White Bridge" # Canon
+c_white_bridge_adj:0 "Bridger"
+c_moen:0 "Moen" # Canon
+c_moen_adj:0 "Moener"
+c_gors_velen:0 "Gors Velen" # Canon
+c_gors_velen_adj:0 "Gors Velener"
+c_thanedd:0 "Thanedd" # Canon
+c_thanedd_adj:0 "Thaneddian"
+c_ansbach:0 "Ansbach" # Canon
+c_ansbach_adj:0 "Ansbachian"
+c_hirundum:0 "Hirundum" # Canon
+c_hirundum_adj:0 "Hirundumian"
+c_anchor:0 "Anchor" # Canon
+c_anchor_adj:0 "Anchorite"
+c_radebul:0 "Radebul"
+c_radebul_adj:0 "Radebulian"
+c_milcen:0 "Milcen"
+c_milcen_adj:0 "Milcener"
+c_jilobor:0 "Jilobor"
+c_jilobor_adj:0 "Jiloborian"
+c_dorian:0 "Dorian" # Canon
+c_dorian_adj:0 "Dorianan"
+c_altenburg:0 "Altenburg"
+c_altenburg_adj:0 "Altenburger"
+c_cosebuz:0 "Cosebuz"
+c_cosebuz_adj:0 "Cosebuzian"
+c_ivalo:0 "Ivalo" # Canon
+c_ivalo_adj:0 "Ivalan"
+c_mortara:0 "Mortara" # Canon
+c_mortara_adj:0 "Mortaran"
+c_jutriboc:0 "Jutriboc"
+c_jutriboc_adj:0 "Jutribocan"
+c_blota:0 "Blota"
+c_blota_adj:0 "Blotan"
+c_vizima:0 "Vizima" # Canon
+c_vizima_adj:0 "Viziman"
+c_maribor:0 "Maribor" # Canon
+c_maribor_adj:0 "Mariborian"
+c_gommern:0 "Gommern"
+c_gommern_adj:0 "Gommern"
+c_white_orchard:0 "White Orchard" # Canon
+c_white_orchard_adj:0 "Orcharder"
+c_carreras:0 "Carreras" # Canon
+c_carreras_adj:0 "Carreran"
+c_ismene:0 "Ismene" # Canon
+c_ismene_adj:0 "Ismenan"
+c_sangerhausen:0 "Sangerhausen"
+c_sangerhausen_adj:0 "Sangerhausener"
+c_mersenburg:0 "Mersenburg"
+c_mersenburg_adj:0 "Mersenburger"
+c_garramone:0 "Garramone" # Canon
+c_garramone_adj:0 "Garramonian"
+c_etcheverry:0 "Etcheverry" # Canon
+c_etcheverry_adj:0 "Etcheverrian"
+c_roche:0 "Roche" # Canon
+c_roche_adj:0 "Rochan"
+c_leuven:0 "Leuven"
+c_leuven_adj:0 "Leuvenian"
+c_mayena:0 "Mayena" # Canon
+c_mayena_adj:0 "Mayenan"
+c_eschweiler:0 "Eschweiler"
+c_eschweiler_adj:0 "Eschweilerian"
+c_duren:0 "Duren"
+c_duren_adj:0 "Durenian"
+c_beda:0 "Beda"
+c_beda_adj:0 "Bedan"
+c_salm:0 "Salm"
+c_salm_adj:0 "Salmian"
+c_forbach:0 "Forbach"
+c_forbach_adj:0 "Forbachian"
+c_faulquemont:0 "Faulquemont"
+c_faulquemont_adj:0 "Faulquemontois"
+
+k_cidaris:0 "Cidaris" # Canon
+k_cidaris_adj:0 "Cidarian"
+
+d_roggeveen:0 "Roggeveen" # Canon
+d_roggeveen_adj:0 "Roggeveener"
+d_cidaris:0 "Cidaris" # Canon
+d_cidaris_adj:0 "Cidarian"
+d_bremervoord:0 "Bremervoord" # Canon
+d_bremervoord_adj:0 "Bremervoorder"
+
+c_roggeveen:0 "Roggeveen" # Canon
+c_roggeveen_adj:0 "Roggeveener"
+c_tukaj:0 "Tukaj" # Canon
+c_tukaj_adj:0 "Tukajan"
+c_cremora:0 "Cremora" # Canon
+c_cremora_adj:0 "Cremoran"
+c_cidaris:0 "Cidaris" # Canon
+c_cidaris_adj:0 "Cidarian"
+c_vartburg:0 "Vartburg" # Canon
+c_vartburg_adj:0 "Vartburger"
+c_vole:0 "Vole" # Canon
+c_vole_adj:0 "Voler"
+c_bremervoord:0 "Bremervoord" # Canon
+c_bremervoord_adj:0 "Bremervoorder"
+c_lonn:0 "Lonn"
+c_lonn_adj:0 "Lonner"
+
+k_verden:0 "Verden" # Canon
+k_verden_adj:0 "Verdenian"
+
+d_kerack:0 "Kerack" # Canon
+d_kerack_adj:0 "Kerackian"
+
+d_hamm:0 "Hamm" # Canon
+d_hamm_adj:0 "Hammish"
+
+d_bodrog:0 "Bodrog" # Canon
+d_bodrog_adj:0 "Bodrogian"
+
+c_kerack:0 "Kerack" # Canon
+c_kerack_adj:0 "Kerackian"
+
+c_petrelsteyn:0 "Petrelsteyn" # Canon
+c_petrelsteyn_adj:0 "Petrelsteyner"
+
+d_verden:0 "Verden" # Canon
+d_verden_adj:0 "Verdenian"
+
+c_nastrog:0 "Nastrog" # Canon
+c_nastrog_adj:0 "Nastrogian"
+
+c_holsteb:0 "Holsteb"
+c_holsteb_adj:0 "Holstebian"
+
+c_tarm:0 "Tarm"
+c_tarm_adj:0 "Tarmish"
+
+c_hamm:0 "Hamm" # Canon
+c_hamm_adj:0 "Hammish"
+
+c_bodrog:0 "Bodrog" # Canon
+c_bodrog_adj:0 "Bodrogian"
+
+c_rozrog:0 "Rozrog" # Canon
+c_rozrog_adj:0 "Rozrogian"
+
+c_helsingor:0 "Helsingor"
+c_helsingor_adj:0 "Helsingorian"
+
+k_brugge:0 "Brugge" # Canon
+k_brugge_adj:0 "Bruggeling"
+
+d_owl_hills:0 "Owl Hills" # Canon
+d_owl_hills_adj:0 "Owl Hillfolk"
+d_brugge:0 "Brugge" # Canon
+d_brugge_adj:0 "Bruggeling"
+d_chotla:0 "Chotla" # Canon
+d_chotla_adj:0 "Chotlan"
+
+c_burnt_stump:0 "Burnt Stump" # Canon
+c_burnt_stump_adj:0 "Stumper"
+c_eighth_mile:0 "Eighth Mile" # Canon
+c_eighth_mile_adj:0 "Eighth Miler"
+c_seventh_mile:0 "Seventh Mile"
+c_seventh_mile_adj:0 "Seventh Miler" # Canon
+c_turlough:0 "Turlough" # Canon
+c_turlough_adj:0 "Turloughite"
+c_brugge:0 "Brugge" # Canon
+c_brugge_adj:0 "Bruggeling"
+c_dillingen:0 "Dillingen" # Canon
+c_dillingen_adj:0 "Dillingener"
+c_drieschot:0 "Drieschot" # Canon
+c_drieschot_adj:0 "Drieschotian"
+c_kernow:0 "Kernow" # Canon
+c_kernow_adj:0 "Kernowan"
+c_steenwik:0 "Steenwik"
+c_steenwik_adj:0 "Steenwiker"
+c_wadeilan:0 "Wadeilan"
+c_wadeilan_adj:0 "Wadeilaner"
+c_appingedam:0 "Appingedam"
+c_appingedam_adj:0 "Appingedammer"
+c_brenna:0 "Brenna" # Canon
+c_brenna_adj:0 "Brennan"
+
+k_brokilon:0 "Brokilon" # Canon
+k_brokilon_adj:0 "Brokiloéne"
+
+d_duen_canell:0 "Duén Canell" # Canon
+d_duen_canell_adj:0 "Canellian"
+
+d_col_serrai:0 "Col Serrai" # Canon
+d_col_serrai_adj:0 "Serraian"
+
+d_craag_an:0 "Craag An" # Canon
+d_craag_an_adj:0 "Craagian"
+
+c_duen_canell:0 "Duén Canell" # Canon
+c_duen_canell_adj:0 "Canellian"
+
+c_dol_gellau:0 "Dol Gellau"
+c_dol_gellau_adj:0 "Gellauan"
+
+c_caer_narfon:0 "Caer Narfon"
+c_caer_narfon_adj:0 "Narfonian"
+
+c_caer_gyf:0 "Caer Gyf"
+c_caer_gyf_adj:0 "Gyfian"
+
+c_col_serrai:0 "Col Serrai" # Canon
+c_col_serrai_adj:0 "Serraian"
+
+c_faesyfed:0 "Faesyfed"
+c_faesyfed_adj:0 "Faesyfedian"
+
+c_ergyn:0 "Ergyn"
+c_ergyn_adj:0 "Ergynian"
+
+c_cenefelde:0 "Cenefelde"
+c_cenefelde_adj:0 "Cenefeldian"
+
+c_craag_an:0 "Craag An" # Canon
+c_craag_an_adj:0 "Craagian"
+
+c_craag_arghais:0 "Craag Arghais"
+c_craag_arghais_adj:0 "Craagian"
+
+c_craag_fahain:0 "Craag Fahain"
+c_craag_fahain_adj:0 "Craagian"
+
+k_sodden:0 "Sodden" # Canon
+k_sodden_adj:0 "Soddener"
+
+d_armeria:0 "Armeria" # Canon
+d_armeria_adj:0 "Armerian"
+
+d_vidort:0 "Vidort" # Canon
+d_vidort_adj:0 "Vidortine"
+
+d_klamat:0 "Klamat" # Canon
+d_klamat_adj:0 "Klamatian"
+
+d_transriver:0 "Transriver"
+d_transriver_adj:0 "Riverine"
+
+d_angren:0 "Angren" # Canon
+d_angren_adj:0 "Angreni"
+
+d_monduirn:0 "Monduirn" # Canon
+d_monduirn_adj:0 "Monduirnian"
+
+c_armeria:0 "Armeria" # Canon
+c_armeria_adj:0 "Armerian"
+
+c_carcano:0 "Carcano" # Canon
+c_carcano_adj:0 "Carcanese"
+
+c_kirsche:0 "Kirsche"
+c_kirsche_adj:0 "Kirscher"
+
+c_adria:0 "Adria"
+c_adria_adj:0 "Adrian"
+
+c_vidort:0 "Vidort" # Canon
+c_vidort_adj:0 "Vidortine"
+
+c_breza:0 "Breza" # Canon
+c_breza_adj:0 "Brezan"
+
+c_varese:0 "Varese"
+c_varese_adj:0 "Varesi"
+
+c_pombia:0 "Pombia"
+c_pombia_adj:0 "Pombian"
+
+c_klamat:0 "Klamat" # Canon
+c_klamat_adj:0 "Klamatian"
+
+c_kagen:0 "Kagen" # Canon
+c_kagen_adj:0 "Kagener"
+
+c_orbetello:0 "Orbetello"
+c_orbetello_adj:0 "Orbetellese"
+
+c_grosset:0 "Grosset"
+c_grosset_adj:0 "Grossetian"
+
+c_brescel:0 "Brescel"
+c_brescel_adj:0 "Brescelian"
+
+c_kaczan:0 "Kaczan" # Canon
+c_kaczan_adj:0 "Kaczanian"
+
+c_ysgith:0 "Ysgith" # Canon
+c_ysgith_adj:0 "Ysgithan"
+
+c_tuzla:0 "Tuzla" # Canon
+c_tuzla_adj:0 "Tuzlan"
+
+c_caed_dhu:0 "Caed Dhu" # Canon
+c_caed_dhu_adj:0 "Forester"
+
+c_monduirn:0 "Monduirn" # Canon
+c_monduirn_adj:0 "Monduirnian"
+
+c_newi:0 "Newi" # Canon
+c_newi_adj:0 "Newese"
+
+c_haern_caduch:0 "Haern Caduch" # Canon
+c_haern_caduch_adj:0 "Caduchian"
+
+c_prato:0 "Prato"
+c_prato_adj:0 "Pratonian"
+
+c_riverdell:0 "Riverdell" # Canon
+c_riverdell_adj:0 "Dingler"
+
+k_mahakam:0 "Mahakam" # Canon
+k_mahakam_adj:0 "Mahakaman"
+
+d_colshtok:0 "Colshtok" # Canon
+d_colshtok_adj:0 "Colshtokan"
+
+d_gulbratt:0 "Gulbratt" # Canon
+d_gulbratt_adj:0 "Gulbratter"
+
+d_carbon:0 "Carbon" # Canon
+d_carbon_adj:0 "Carbonite"
+
+c_arneburg:0 "Arneburg"
+c_arneburg_adj:0 "Arneburger"
+
+c_goltern:0 "Goltern"
+c_goltern_adj:0 "Golterner"
+
+c_moran:0 "Moran" # Canon
+c_moran_adj:0 "Moranian"
+
+c_dahlberg:0 "Dahlberg" # Canon
+c_dahlberg_adj:0 "Dahlberger"
+
+c_kretschmar:0 "Kretschmar"
+c_kretschmar_adj:0 "Kretschmarite"
+
+c_rostock:0 "Rostock"
+c_rostock_adj:0 "Rostocker"
+
+c_vidmar:0 "Vidmar"
+c_vidmar_adj:0 "Vidmarite"
+
+c_fornlam:0 "Fornlam" # Canon
+c_fornlam_adj:0 "Fornlamian"
+
+c_vorsprung:0 "Vorsprung"
+c_vorsprung_adj:0 "Vorsprunger"
+
+c_carbon:0 "Carbon" # Canon
+c_carbon_adj:0 "Carbonite"
+
+c_hoog:0 "Hoog" # Canon
+c_hoog_adj:0 "Hoogian"
+
+c_graem:0 "Graem"
+c_graem_adj:0 "Graemian"
+
+c_ferenc:0 "Ferenc" # Canon
+c_ferenc_adj:0 "Ferencker"
+
+k_aedirn:0 "Aedirn" # Canon
+k_aedirn_adj:0 "Aedirnian"
+
+d_hagge:0 "Hagge" # Canon
+d_hagge_adj:0 "Hagenaar"
+
+d_vergen:0 "Vergen" # Canon
+d_vergen_adj:0 "Vergener"
+
+d_asheberg:0 "Asheberg" # Canon
+d_asheberg_adj:0 "Asheberger"
+
+d_aldersberg:0 "Aldersberg" # Canon
+d_aldersberg_adj:0 "Aldersberger"
+
+d_vengerberg:0 "Vengerberg" # Canon
+d_vengerberg_adj:0 "Vengerberger"
+
+c_flotsam:0 "Flotsam" # Canon
+c_flotsam_adj:0 "Flotsammer"
+
+c_hagge:0 "Hagge" # Canon
+c_hagge_adj:0 "Hagenaar"
+
+c_osfalen:0 "Osfalener"
+c_osfalen_adj:0 "Osfalener"
+
+c_vergen:0 "Vergen" # Canon
+c_vergen_adj:0 "Vergener"
+
+c_kiestein:0 "Kiestein"
+c_kiestein_adj:0 "Kiesteiner"
+
+c_lubhaven:0 "Lubhaven"
+c_lubhaven_adj:0 "Lubhavener"
+
+c_meiss:0 "Meiss"
+c_meiss_adj:0 "Meissian"
+
+c_asheberg:0 "Asheberg" # Canon
+c_asheberg_adj:0 "Asheberger"
+
+c_brakel:0 "Brakel"
+c_brakel_adj:0 "Brakelian"
+
+c_cella:0 "Cella"
+c_cella_adj:0 "Cellan"
+
+c_aldersberg:0 "Aldersberg" # Canon
+c_aldersberg_adj:0 "Aldersberger"
+
+c_rosberg:0 "Rosberg" # Canon
+c_rosberg_adj:0 "Rosberger"
+
+c_moulderwood:0 "Moulderwood" # Canon
+c_moulderwood_adj:0 "Forester"
+
+c_vengerberg:0 "Vengerberg" # Canon
+c_vengerberg_adj:0 "Vengerberger"
+
+c_mersen:0 "Mersen"
+c_mersen_adj:0 "Mersenese"
+
+c_velkart:0 "Velkart"
+c_velkart_adj:0 "Velkartian"
+
+k_tir_blathanna:0 "Tir Blathanna" # Canon
+k_tir_blathanna_adj:0 "Aen Blathan"
+
+d_kalkar:0 "Kalkar" # Canon
+d_kalkar_adj:0 "Kalkarite"
+
+d_guleta:0 "Guleta" # Canon
+d_guleta_adj:0 "Guletan"
+
+d_dyfne:0 "Dyfne" # Canon
+d_dyfne_adj:0 "Aen Dyfne"
+
+d_dol_blathanna:0 "Dol Blathanna" # Canon
+d_dol_blathanna_adj:0 "Aen Blathan"
+
+d_ard_blathan:0 "Ard Blathan" # Canon
+d_ard_blathan_adj:0 "Aen Blathan"
+
+c_kalkar:0 "Kalkar" # Canon
+c_kalkar_adj:0 "Kalkarite"
+
+c_tiel:0 "Tiel" # Canon
+c_tiel_adj:0 "Tielan"
+
+c_leisen:0 "Leisen"
+c_leisen_adj:0 "Leisener"
+
+c_bergaendahl:0 "Berg Aen Dal" # Canon
+c_bergaendahl_adj:0 "Daler"
+
+c_est_haemlet:0 "Est Haemlet" # Canon
+c_est_haemlet_adj:0 "Aen Haemlet"
+
+c_guleta:0 "Guleta" # Canon
+c_guleta_adj:0 "Guletan"
+
+c_eysenlaan:0 "Eysenlaan" # Canon
+c_eysenlaan_adj:0 "Eysenlaaner"
+
+c_galen:0 "Galen"
+c_galen_adj:0 "Galener"
+
+c_dyfne:0 "Dyfne" # Canon
+c_dyfne_adj:0 "Aen Dyfne"
+
+c_ceann_dyfne:0 "Ceann Dyfne" # Canon
+c_ceann_dyfne_adj:0 "Aen Dyfne"
+
+c_feirste:0 "Feirste"
+c_feirste_adj:0 "Feirstener"
+
+c_omeath:0 "Omeath"
+c_omeath_adj:0 "Omeathean"
+
+c_caslach:0 "Caslach"
+c_caslach_adj:0 "Caslachan"
+
+c_posada:0 "Posada" # Canon
+c_posada_adj:0 "Posadan"
+
+c_dol_maedfa:0 "Dol Maedfa"
+c_dol_maedfa_adj:0 "Maedfan"
+
+c_gabraen:0 "Gabraen"
+c_gabraen_adj:0 "Gabraenese"
+
+c_luimnea:0 "Luimnea"
+c_luimnea_adj:0 "Luimnean"
+
+c_tor_argead:0 "Tor Argead" # Canon
+c_tor_argead_adj:0 "Aen Blathan"
+
+c_aleot:0 "Aleot"
+c_aleot_adj:0 "Aleotan"
+
+c_ard_leag:0 "Ard Leag"
+c_ard_leag_adj:0 "Leager"
+
+c_fevan:0 "Fevan"
+c_fevan_adj:0 "Fevanese"
+
+k_rivia:0 "Rivia" # Canon
+k_rivia_adj:0 "Rivian"
+
+k_lyria:0 "Lyria" # Canon
+k_lyria_adj:0 "Lyrian"
+
+d_rivia:0 "Rivia" # Canon
+d_rivia_adj:0 "Rivian"
+
+d_brossard:0 "Ivrea"
+d_brossard_adj:0 "Ivrean"
+
+d_lyria:0 "Lyria" # Canon
+d_lyria_adj:0 "Lyrian"
+
+d_dravograd:0 "Dravograd" # Canon
+d_dravograd_adj:0 "Dravogradian"
+
+c_rivia:0 "Rivia" # Canon
+c_rivia_adj:0 "Rivian"
+
+c_willowhain:0 "Willowhain" # Canon
+c_willowhain_adj:0 "Willower"
+
+c_craag_ros:0 "Craag Ros" # Canon
+c_craag_ros_adj:0 "Rosean"
+
+c_caldwell:0 "Caldwell" # Canon
+c_caldwell_adj:0 "Caldwellian"
+
+c_brossard:0 "Brossard" # Canon
+c_brossard_adj:0 "Brossardian"
+
+c_kaveldun:0 "Kaveldun" # Canon
+c_kaveldun_adj:0 "Kaveldunese"
+
+c_henberg:0 "Henberg" # Canon
+c_henberg_adj:0 "Henberger"
+
+c_broadhead:0 "Broadhead" # Canon
+c_broadhead_adj:0 "Broadheader"
+
+c_lyria:0 "Lyria" # Canon
+c_lyria_adj:0 "Lyrian"
+
+c_scala:0 "Scala" # Canon
+c_scala_adj:0 "Scalese"
+
+c_spalla:0 "Spalla" # Canon
+c_spalla_adj:0 "Spallese"
+
+c_rastburg:0 "Rastburg" # Canon
+c_rastburg_adj:0 "Rastburger"
+
+c_dravograd:0 "Dravograd" # Canon
+c_dravograd_adj:0 "Dravogradian"
+
+c_eschen:0 "Eschen"
+c_eschen_adj:0 "Eschener"
+
+c_tolz:0 "Tolz"
+c_tolz_adj:0 "Tolzian"
+
+k_skellige:0 "Skellige" # Canon
+k_skellige_adj:0 "Skelliger"
+
+d_inis_almhult:0 "Inis Almhult" # Canon
+d_inis_almhult_adj:0 "Almhultian"
+
+d_trolde:0 "Trolde" # Canon
+d_trolde_adj:0 "Troldean"
+
+d_muire:0 "Muire" # Canon
+d_muire_adj:0 "Muirean"
+
+d_undvik:0 "Undvik" # Canon
+d_undvik_adj:0 "Undviker"
+
+d_spikeroog:0 "Spikeroog" # Canon
+d_spikeroog_adj:0 "Spikerooger"
+
+d_an_skellig:0 "An Skellig" # Canon
+d_an_skellig_adj:0 "Skelliger"
+
+d_hindarsfjall:0 "Hindarsfjall" # Canon
+d_hindarsfjall_adj:0 "Hindarsfjaller"
+
+d_faroe:0 "Faroe" # Canon
+d_faroe_adj:0 "Faroese"
+
+c_inis_almhult:0 "Inis Almhult" # Canon
+c_inis_almhult_adj:0 "Almhultian"
+
+c_trolde:0 "Trolde" # Canon
+c_trolde_adj:0 "Troldean"
+
+c_etnir:0 "Etnir" # Canon
+c_etnir_adj:0 "Etnirian"
+
+c_gedyneith:0 "Gedyneith" # Canon
+c_gedyneith_adj:0 "Gedyneithese"
+
+c_holmstein:0 "Holmstein" # Canon
+c_holmstein_adj:0 "Holmsteiner"
+
+c_fornhala:0 "Fornhala" # Canon
+c_fornhala_adj:0 "Fornhalan"
+
+c_fayrlund:0 "Fayrlund" # Canon
+c_fayrlund_adj:0 "Fayrlundian"
+
+c_fyresdal:0 "Fyresdal" # Canon
+c_fyresdal_adj:0 "Fyresdalian"
+
+c_undvik:0 "Undvik" # Canon
+c_undvik_adj:0 "Undviker"
+
+c_spikeroog:0 "Spikeroog" # Canon
+c_spikeroog_adj:0 "Spikerooger"
+
+c_an_skellig:0 "An Skellig" # Canon
+c_an_skellig_adj:0 "Skelliger"
+
+c_hindarsfjall:0 "Hindarsfjall" # Canon
+c_hindarsfjall_adj:0 "Hindarsfjaller"
+
+c_faroe:0 "Faroe" # Canon
+c_faroe_adj:0 "Faroese"
+
+k_cintra:0 "Cintra" # Canon
+k_cintra_adj:0 "Cintran"
+
+d_strept:0 "Strept" # Canon
+d_strept_adj:0 "Streptian"
+
+d_cintra:0 "Cintra" # Canon
+d_cintra_adj:0 "Cintran"
+
+d_ortagor:0 "Ortagor" # Canon
+d_ortagor_adj:0 "Ortagorian"
+
+d_erlenwald:0 "Erlenwald" # Canon
+d_erlenwald_adj:0 "Erlenwalder"
+
+d_attre:0 "Attre" # Canon
+d_attre_adj:0 "Attran"
+
+d_marnadal:0 "Marnadal" # Canon
+d_marnadal_adj:0 "Marnadalian"
+
+c_strept:0 "Strept" # Canon
+c_strept_adj:0 "Streptian"
+
+c_kircald:0 "Kircald"
+c_kircald_adj:0 "Kircaldian"
+
+c_callander:0 "Callander"
+c_callander_adj:0 "Callendrian"
+
+c_cintra:0 "Cintra" # Canon
+c_cintra_adj:0 "Cintran"
+
+c_ballater:0 "Ballater"
+c_ballater_adj:0 "Ballatrian"
+
+c_tigg:0 "Tigg" # Canon
+c_tigg_adj:0 "Tiggese"
+
+c_hochebuz:0 "Hochebuz" # Canon
+c_hochebuz_adj:0 "Hochebois"
+
+c_ortagor:0 "Ortagor" # Canon
+c_ortagor_adj:0 "Ortagorian"
+
+c_girvan:0 "Girvan"
+c_girvan_adj:0 "Girvanese"
+
+c_ayre:0 "Ayre"
+c_ayre_adj:0 "Ayran"
+
+c_erlenwald:0 "Erlenwald"
+c_erlenwald_adj:0 "Erlenwalder"
+
+c_cnil:0 "Cnil"
+c_cnil_adj:0 "Cnilian"
+
+c_arran:0 "Arran"
+c_arran_adj:0 "Arranese"
+
+c_attre:0 "Attre" # Canon
+c_attre_adj:0 "Attran"
+
+c_lomond:0 "Lomond"
+c_lomond_adj:0 "Lomondian"
+
+c_ardnam:0 "Ardnam"
+c_ardnam_adj:0 "Ardnammer"
+
+c_marnadal:0 "Marnadal" # Canon
+c_marnadal_adj:0 "Marnadalian"
+
+c_garioch:0 "Garioch"
+c_garioch_adj:0 "Gariochian"
+
+c_berwick:0 "Berwick"
+c_berwick_adj:0 "Berwicker"
+
+k_angra:0 "Angra" # Canon
+k_angra_adj:0 "Angran"
+
+d_riedbrune:0 "Riedbrune" # Canon
+d_riedbrune_adj:0 "Riedbruner"
+
+d_belhaven:0 "Belhaven" # Canon
+d_belhaven_adj:0 "Belhavener"
+
+d_toussaint:0 "Toussaint" # Canon
+d_toussaint_adj:0 "Toussaintois"
+
+d_glevitzingen:0 "Glevitzingen" # Canon
+d_glevitzingen_adj:0 "Glevitzingener"
+
+d_caiseal:0 "Caiseal"
+d_caiseal_adj:0 "Caisealean"
+
+d_cervantes:0 "Cervantes" # Canon
+d_cervantes_adj:0 "Cervantois"
+
+d_gwendeith:0 "Gwendeith" # Canon
+d_gwendeith_adj:0 "Aen Gwendeith"
+
+d_solveiga:0 "Solveiga" # Canon
+d_solveiga_adj:0 "Solveigan"
+
+d_bealach:0 "Bealach"
+d_bealach_adj:0 "Bealachean"
+
+c_riedbrune:0 "Riedbrune" # Canon
+c_riedbrune_adj:0 "Riedbruner"
+
+c_roviga:0 "Roviga"
+c_roviga_adj:0 "Rovigan"
+
+c_santhia:0 "Santhia"
+c_santhia_adj:0 "Santhian"
+
+c_belhaven:0 "Belhaven" # Canon
+c_belhaven_adj:0 "Belhavener"
+
+c_mondovi:0 "Mondovi"
+c_mondovi_adj:0 "Mondovese"
+
+c_gallart:0 "Gallart"
+c_gallart_adj:0 "Gallartois"
+
+c_theodula:0 "Theodula" # Canon
+c_theodula_adj:0 "Theodulan"
+
+c_caed_myrkvid:0 "Caed Myrkvid" # Canon
+c_caed_myrkvid_adj:0 "Myrkvidian"
+
+c_vedette:0 "Vedette" # Canon
+c_vedette_adj:0 "Vedetois"
+
+c_gorgon:0 "Gorgon" # Canon
+c_gorgon_adj:0 "Gorgonian"
+
+c_dun_tynne:0 "Dun Tynne" # Canon
+c_dun_tynne_adj:0 "Tynnois"
+
+c_beauclair:0 "Beauclair" # Canon
+c_beauclair_adj:0 "Beauclairois"
+
+c_champs_desoles:0 "Champs Desoles" # Canon
+c_champs_desoles_adj:0 "Desolois"
+
+c_caroberta:0 "Caroberta" # Canon
+c_caroberta_adj:0 "Carobertan"
+
+c_glevitzingen:0 "Glevitzingen" # Canon
+c_glevitzingen_adj:0 "Glevitzingener"
+
+c_autun:0 "Autun"
+c_autun_adj:0 "Autunese"
+
+c_beaune:0 "Beaune"
+c_beaune_adj:0 "Beaunese"
+
+c_roesel:0 "Roesel"
+c_roesel_adj:0 "Roeselian"
+
+c_caiseal:0 "Caiseal"
+c_caiseal_adj:0 "Caisealean"
+
+c_taobh:0 "Taobh"
+c_taobh_adj:0 "Taobian"
+
+c_seascann:0 "Seascann"
+c_seascann_adj:0 "Seascannean"
+
+c_cathair:0 "Cathair"
+c_cathair_adj:0 "Cathairean"
+
+c_cervantes:0 "Cervantes" # Canon
+c_cervantes_adj:0 "Cervantois"
+
+c_rethel:0 "Rethel"
+c_rethel_adj:0 "Rethelese"
+
+c_perthois:0 "Perthois"
+c_perthois_adj:0 "Perthoisean"
+
+c_perche:0 "Perche"
+c_perche_adj:0 "Perchese"
+
+c_gwendeith:0 "Gwendeith" # Canon
+c_gwendeith_adj:0 "Gwendeithean"
+
+c_glenelg:0 "Glenelg"
+c_glenelg_adj:0 "Glenelgean"
+
+c_isneach:0 "Isneach"
+c_isneach_adj:0 "Isneachean"
+
+c_deilan:0 "Deilan"
+c_deilan_adj:0 "Deilanean"
+
+c_ceinoc:0 "Ceinoc"
+c_ceinoc_adj:0 "Ceinocean"
+
+c_solveiga:0 "Solveiga" # Canon
+c_solveiga_adj:0 "Solveiga"
+
+c_garman:0 "Garman"
+c_garman_adj:0 "Garmanian"
+
+c_ceatharlach:0 "Ceatharlach"
+c_ceatharlach_adj:0 "Ceatharlachean"
+
+c_corthaide:0 "Corthaide"
+c_corthaide_adj:0 "Corthaidean"
+
+c_bealach:0 "Bealach"
+c_bealach_adj:0 "Bealachean"
+
+c_doire:0 "Doire"
+c_doire_adj:0 "Doirean"
+
+c_domhnach:0 "Domhnach"
+c_domhnach_adj:0 "Domhnachean"
+
+c_eiscir:0 "Eiscir"
+c_eiscir_adj:0 "Eiscirian"
+
+b_vatselan:0 "Vatselan"
+b_tungut:0 "Tungut"
+b_kusema:0 "Kusema"
+b_salinis:0 "Salinis"
+b_sortav:0 "Sortav"
+b_tova:0 "Tova"
+b_starhemberg:0 "Starhemberg" # Canon
+b_badreine:0 "Badreine" # Canon
+b_gladsko:0 "Gladsko"
+b_kakisal:0 "Kakisal"
+b_kexholm:0 "Kexholm"
+b_kaer_seren:0 "Kaer Seren" # Canon
+b_porhoet:0 "Porhoet" # Canon
+b_pirk:0 "Pirk"
+b_rikal:0 "Rikal"
+b_pielin:0 "Pielin"
+b_keitele:0 "Keitele"
+b_kontup:0 "Kontup"
+b_konnev:0 "Konnev"
+b_olavin:0 "Olavin"
+b_linna:0 "Linna"
+b_tavasts:0 "Tavasts"
+b_ulvil:0 "Ulvil"
+b_telja:0 "Telja"
+b_pont_vanis:0 "Pont Vanis" # Canon
+b_rikala:0 "Rikala"
+b_rauma:0 "Rauma"
+b_raseborg:0 "Raseborg"
+b_vekalat:0 "Vekalat"
+b_mikkel:0 "Mikkel"
+b_tomajarv:0 "Tomajarv"
+b_paijal:0 "Paijal"
+b_puolank:0 "Puolank"
+b_merikar:0 "Merikar"
+b_koivist:0 "Koivist"
+b_rakverelin:0 "Rakverelin" # Canon
+b_talava:0 "Talava"
+b_wolmar:0 "Wolmar"
+b_venden:0 "Venden"
+b_narok:0 "Narok" # Canon
+b_rauna:0 "Rauna"
+b_ronneberg:0 "Ronneberg"
+b_kokenois:0 "Kokenois"
+b_aedd_gynvael:0 "Aedd Gynvael" # Canon
+b_kokenhusen:0 "Kokenhusen"
+b_lan_exeter:0 "Lan Exeter" # Canon
+b_cesvaine:0 "Cesvaine"
+b_lennewarden:0 "Lennewarden"
+b_jersika:0 "Jersika"
+b_jekab:0 "Jekab"
+b_dunaburg:0 "Dunaburg"
+b_rezekne:0 "Rezekne"
+b_rositten:0 "Rositten"
+b_dobele:0 "Dobele"
+b_bauska:0 "Bauska"
+b_mitau:0 "Mitau"
+b_velhad:0 "Velhad" # Canon
+b_neuenburg:0 "Neuenburg"
+b_vanemane:0 "Vanemane"
+b_piltene:0 "Piltene"
+b_dundaga:0 "Dundaga"
+b_grobin:0 "Grobin"
+b_bandava:0 "Bandava"
+b_ceklis:0 "Ceklis"
+b_selpils:0 "Selpils"
+b_oknist:0 "Oknist"
+b_harjuma:0 "Harjuma"
+b_jarva:0 "Jarva"
+b_narva:0 "Narva"
+b_talgar:0 "Talgar" # Canon
+b_wesenburg:0 "Wesenburg"
+b_kuressare:0 "Kuressare"
+b_arensburg:0 "Arensburg"
+b_maasil:0 "Maasil"
+b_wiek:0 "Wiek"
+b_lanema:0 "Lanema"
+b_leal:0 "Leal"
+b_lemisele:0 "Lemisele"
+b_lemsal:0 "Lemsal"
+b_salismunde:0 "Salismunde"
+b_uxkull:0 "Uxkull"
+b_livs:0 "Livs"
+b_sturefors:0 "Sturefors" # Canon
+b_georgenburg:0 "Georgenburg"
+b_raseinen:0 "Raseinen"
+b_ragneta:0 "Ragneta"
+b_raseinai:0 "Raseinai"
+b_jurbarkas:0 "Jurbarkas"
+b_veliuona:0 "Veliuona"
+b_ragnit:0 "Ragnit"
+b_kedainiai:0 "Kedainiai"
+b_tilsit:0 "Tilsit"
+b_memel:0 "Memel"
+b_taurage:0 "Taurage"
+b_palanga:0 "Palanga"
+b_creyden:0 "Creyden" # Canon
+b_medeniken:0 "Medeniken"
+b_telsiai:0 "Telsiai"
+b_siauliai:0 "Siauliai"
+b_viln:0 "Viln"
+b_vilkmerge:0 "Vilkmerge"
+b_kreva:0 "Kreva"
+b_tancarville:0 "Tancarville" # Canon
+b_kaunas:0 "Kaunas"
+b_merkine:0 "Merkine"
+b_malleore:0 "Malleore" # Canon
+b_aliten:0 "Aliten"
+b_valkinin:0 "Valkinin"
+b_panemune:0 "Panemune"
+b_traka:0 "Traka"
+b_suvalka:0 "Suvalka"
+b_sejny:0 "Sejny"
+b_vilkavisk:0 "Vilkavisk"
+b_braslau:0 "Braslau"
+b_utena:0 "Utena"
+b_gastrik:0 "Gastrik"
+b_gavle:0 "Gavle"
+b_oklabo:0 "Oklabo"
+b_hengfors:0 "Hengfors" # Canon
+b_bergslagen:0 "Bergslagen"
+b_vestaras:0 "Vestaras"
+b_arbuga:0 "Arbuga"
+b_katteburg:0 "Katteburg"
+b_caingorn:0 "Caingorn" # Canon
+b_fernabo:0 "Fernabo"
+b_varmla:0 "Varmla"
+b_farneb:0 "Farneb"
+b_dalarna:0 "Dalarna"
+b_mor:0 "Mor"
+b_creigiau:0 "Creigiau" # Canon
+b_falene:0 "Falene"
+b_lodose:0 "Lodose"
+b_falkop:0 "Falkop"
+b_skara:0 "Skara"
+b_varnhem:0 "Varnhem"
+b_lako:0 "Lako"
+b_dalborg:0 "Dalborg"
+b_tiselskog:0 "Tiselskog"
+b_gillberg:0 "Gillberg"
+b_sundby:0 "Sundby"
+b_birkevik:0 "Birkevik"
+b_sunda:0 "Sunda"
+b_dalaberg:0 "Dalaberg"
+b_henamorum:0 "Henamorum"
+b_leksand:0 "Leksand"
+b_jamurlak:0 "Jamurlak" # Canon
+b_malbork:0 "Malbork"
+b_elblag:0 "Elblag"
+b_elbing:0 "Elbing"
+b_elbingas:0 "Elbingas"
+b_graudenburg:0 "Graudenburg"
+b_marienwerder:0 "Marienwerder"
+b_marienberg:0 "Marienberg"
+b_kwidzyn:0 "Kwidzyn"
+b_kwidzynas:0 "Kwidzynas"
+b_kwid:0 "Kwid"
+b_luton:0 "Luton" # Canon
+b_lukomorze:0 "Lukomorze" # Canon
+b_cossin:0 "Cossin"
+b_yspaden:0 "Yspaden" # Canon
+b_wormditt:0 "Wormditt"
+b_warmia:0 "Warmia"
+b_orneta:0 "Orneta"
+b_maurin:0 "Maurin"
+b_morag:0 "Morag"
+b_morongas:0 "Morongas"
+b_blaviken:0 "Blaviken" # Canon
+b_braniewo:0 "Braniewo"
+b_braunsberg:0 "Braunsberg"
+b_bartenburg:0 "Bartenburg"
+b_heilsberg:0 "Heilsberg"
+b_lidzbark:0 "Lidzbark"
+b_mirt:0 "Mirt" # Canon
+b_tapiau:0 "Tapiau"
+b_paterswalde:0 "Paterswalde"
+b_pokarmin:0 "Pokarmin"
+b_wehlau:0 "Wehlau"
+b_welowe:0 "Welowe"
+b_twangste:0 "Twangste"
+b_konigsberg:0 "Konigsberg"
+b_karaliauc:0 "Karaliauc"
+b_labiau:0 "Labiau"
+b_morgraig:0 "Morgraig" # Canon
+b_lecbarg:0 "Lecbarg"
+b_lautenberg:0 "Lautenberg"
+b_baldhorn:0 "Baldhorn" # Canon
+b_stettin:0 "Stettin"
+b_sczecin:0 "Sczecin"
+b_ucramund:0 "Ucramund"
+b_troy:0 "Troy" # Canon
+b_pyritz:0 "Pyritz"
+b_gryfino:0 "Gryfino"
+b_kolobrzeg:0 "Kolobrzeg"
+b_swinouj:0 "Swinouj"
+b_kamien:0 "Kamien"
+b_stargad:0 "Stargad"
+b_gollno:0 "Gollno"
+b_nowogard:0 "Nowogard"
+b_tridam:0 "Tridam" # Canon
+b_lobez:0 "Lobez"
+b_naugard:0 "Naugard"
+b_soldin:0 "Soldin"
+b_kostschin:0 "Kostschin"
+b_kostrzyn:0 "Kostrzyn"
+b_kustrin:0 "Kustrin"
+b_dramberg:0 "Dramberg"
+b_kolberg:0 "Kolberg"
+b_tempelburg:0 "Tempelburg"
+b_walcz:0 "Walcz"
+b_pila:0 "Pila"
+b_sneidemul:0 "Sneidemul"
+b_crinfrid:0 "Crinfrid" # Canon
+b_czecinek:0 "Czecinek"
+b_neustettin:0 "Neustettin"
+b_landsberg:0 "Landsberg"
+b_zantoch:0 "Zantoch"
+b_driesen:0 "Driesen"
+b_wielen:0 "Wielen"
+b_fiene:0 "Fiene"
+b_kreuz:0 "Kreuz"
+b_choczno:0 "Choczno"
+b_wismar:0 "Wismar"
+b_esteken:0 "Esteken"
+b_stolp:0 "Stolp"
+b_koszalin:0 "Koszalin"
+b_koslin:0 "Koslin"
+b_ghelibol:0 "Ghelibol" # Canon
+b_lebork:0 "Lebork"
+b_lauenberg:0 "Lauenberg"
+b_miastko:0 "Miastko"
+b_czytno:0 "Czytno"
+b_ziethen:0 "Ziethen"
+b_roggeven:0 "Roggeven" # Canon
+b_hammerstein:0 "Hammerstein"
+b_rummelsburg:0 "Rummelsburg"
+b_berent:0 "Berent"
+b_graudburg:0 "Graudburg"
+b_swiecie:0 "Swiecie"
+b_koscierzyna:0 "Koscierzyna"
+b_konitz:0 "Konitz"
+b_podstupim:0 "Podstupim"
+b_lehnin:0 "Lehnin"
+b_ruyter:0 "Ruyter"
+b_putzig:0 "Putzig"
+b_trsow:0 "Trsow"
+b_wilzia:0 "Wilzia"
+b_ruppin:0 "Ruppin"
+b_nowen:0 "Nowen"
+b_lindow:0 "Lindow"
+b_tangermunde:0 "Tangermunde"
+b_botzow:0 "Botzow"
+b_rosenfelde:0 "Rosenfelde"
+b_havelberg:0 "Havelberg"
+b_brizania:0 "Brizania"
+b_klenow:0 "Klenow"
+b_prenzlau:0 "Prenzlau"
+b_templin:0 "Templin"
+b_eberswalde:0 "Eberswalde"
+b_czesto:0 "Czesto"
+b_gorn:0 "Gorn"
+b_jedrze:0 "Jedrze"
+b_wytarg:0 "Wytarg"
+b_sacz:0 "Sacz"
+b_liewicza:0 "Liewicza"
+b_kielce:0 "Kielce"
+b_andomerz:0 "Andomerz"
+b_opatow:0 "Opatow"
+b_lukow:0 "Lukow"
+b_tretogor:0 "Tretogor" # Canon
+b_miedzanka:0 "Miedzanka"
+b_dreiberg:0 "Dreiberg"
+b_ilza:0 "Ilza"
+b_opoczno:0 "Opoczno"
+b_radom:0 "Radom"
+b_parczew:0 "Parczew"
+b_goraj:0 "Goraj"
+b_lublin:0 "Lublin"
+b_urzedow:0 "Urzedow"
+b_mielec:0 "Mielec"
+b_zopnan:0 "Zopnan"
+b_posen:0 "Posen"
+b_polen:0 "Polen"
+b_drakenborg:0 "Drakenborg" # Canon
+b_miedzyr:0 "Miedzyr"
+b_meseritz:0 "Meseritz"
+b_czarnkow:0 "Czarnkow"
+b_lauterpacht:0 "Lauterpacht" # Canon
+b_wolsztyn:0 "Wolsztyn"
+b_wollstein:0 "Wollstein"
+b_gnie:0 "Gnie"
+b_gnesen:0 "Gnesen"
+b_sroda:0 "Sroda"
+b_peisern:0 "Peisern"
+b_konin:0 "Konin"
+b_kozmin:0 "Kozmin"
+b_novigrad:0 "Novigrad" # Canon
+b_wyspa_swiatynna:0 "Temple Island" # Canon
+b_zamurze:0 "Zamurze" # Canon
+b_arette:0 "Arette" # Canon
+b_yantra:0 "Yantra" # Canon
+b_sarrasin:0 "Sarrasin" # Canon
+b_meiersdorf:0 "Meiersdorf" # Canon
+b_drahim:0 "Drahim" # Canon
+b_ursten:0 "Ursten" # Canon
+b_kaplica:0 "Kaplica" # Canon
+b_oxenfurt:0 "Oxenfurt" # Canon
+b_vegelbud:0 "Vegelbud" # Canon
+b_carsten:0 "Carsten" # Canon
+b_alness:0 "Alness" # Canon
+b_zuetzer:0 "Zuetzer" # Canon
+b_vikk:0 "Vikk" # Canon
+b_arnskrone:0 "Arnskrone" # Canon
+b_heddel:0 "Heddel" # Canon
+b_everec:0 "Everec" # Canon
+b_brunwich:0 "Brunwich" # Canon
+b_garin:0 "Garin" # Canon
+b_bowdon:0 "Bowdon" # Canon
+b_denesle:0 "Denesle" # Canon
+b_kalisch:0 "Kalisch"
+b_koschmin:0 "Koschmin"
+b_turek:0 "Turek"
+b_kosten:0 "Kosten"
+b_fraustadt:0 "Fraustadt"
+b_wschowa:0 "Wschowa"
+b_foam:0 "Foam" # Canon
+b_srem:0 "Srem"
+b_krajna:0 "Krajna"
+b_znin:0 "Znin"
+b_flatow:0 "Flatow"
+b_lubusz:0 "Lubusz"
+b_oderfurt:0 "Oderfurt"
+b_lubusin:0 "Lubusin"
+b_lebus:0 "Lebus"
+b_rinde:0 "Rinde" # Canon
+b_sulecin:0 "Sulecin"
+b_rzepin:0 "Rzepin"
+b_reppen:0 "Reppen"
+b_ciechan:0 "Ciechan"
+b_garwol:0 "Garwol"
+b_gostynin:0 "Gostynin"
+b_rawa:0 "Rawa"
+b_sochaczew:0 "Sochaczew"
+b_wizna:0 "Wizna"
+b_murivel:0 "Murivel" # Canon
+b_lomza:0 "Lomza"
+b_kolno:0 "Kolno"
+b_zakroczym:0 "Zakroczym"
+b_wyszkow:0 "Wyszkow"
+b_nur:0 "Nur"
+b_kreuzburg:0 "Kreuzburg"
+b_brzeg:0 "Brzeg"
+b_strzelce:0 "Strzelce"
+b_brieg:0 "Brieg"
+b_ottmachau:0 "Ottmachau"
+b_otmunchow:0 "Otmunchow"
+b_nysa:0 "Nysa"
+b_egremont:0 "Egremont" # Canon
+b_glogowek:0 "Glogowek"
+b_glogau:0 "Glogau"
+b_zabkowice:0 "Zabkowice"
+b_montecalvo:0 "Montecalvo" # Canon
+b_liewicze:0 "Liewicze"
+b_bielitz:0 "Bielitz"
+b_cieszyn:0 "Cieszyn"
+b_bielsko:0 "Bielsko"
+b_rybnik:0 "Rybnik"
+b_ratibor:0 "Ratibor"
+b_bethen:0 "Bethen"
+b_bytom:0 "Bytom"
+b_wartha:0 "Wartha"
+b_bardo:0 "Bardo"
+b_miliez:0 "Miliez"
+b_wildenberg:0 "Wildenberg"
+b_kovel:0 "Kovel"
+b_rozhysh:0 "Rozhysh"
+b_pereso:0 "Pereso"
+b_nytsia:0 "Nytsia"
+b_lod:0 "Lod" # Canon
+b_berestye:0 "Berestye"
+b_bielsk:0 "Bielsk"
+b_klevan:0 "Klevan"
+b_rowne:0 "Rowne"
+b_brzesc:0 "Brzesc"
+b_drohicinas:0 "Drohicinas"
+b_siemiat:0 "Siemiat"
+b_kobryn:0 "Kobryn"
+b_heigard:0 "Heigard"
+b_blotkowo:0 "Blotkowo"
+b_halych:0 "Halych"
+b_sambir:0 "Sambir"
+b_kolomy:0 "Kolomy"
+b_spas:0 "Spas"
+b_lviv:0 "Lviv"
+b_zvenihorod:0 "Zvenihorod"
+b_lemberg:0 "Lemberg"
+b_terebovl:0 "Terebovl"
+b_yarsbor:0 "Yarsbor"
+b_trembowla:0 "Trembowla"
+b_moklekov:0 "Moklekov"
+b_buchach:0 "Buchach"
+b_chortki:0 "Chortki"
+b_horodok:0 "Horodok"
+b_grodek:0 "Grodek"
+b_kholm:0 "Kholm"
+b_chervenwolyn:0 "Chervenwolyn"
+b_czerwien:0 "Czerwien"
+b_suteysk:0 "Suteysk"
+b_belz:0 "Belz"
+b_peremysh:0 "Peremysh"
+b_lubycza:0 "Lubycza"
+b_liuba:0 "Liuba"
+b_sanok:0 "Sanok"
+b_lezajsk:0 "Lezajsk"
+b_lizhensk:0 "Lizhensk"
+b_kijow:0 "Kijow"
+b_vyshgo:0 "Vyshgo"
+b_bilhorod:0 "Bilhorod"
+b_kaniv:0 "Kaniv"
+b_yuriev:0 "Yuriev"
+b_rastov:0 "Rastov"
+b_zwiahel:0 "Zwiahel"
+b_zhytom:0 "Zhytom"
+b_mezhyboz:0 "Mezhyboz"
+b_chortolis:0 "Chortolis"
+b_horodnytsia:0 "Horodnytsia"
+b_kolodiazhen:0 "Kolodiazhen"
+b_radyn:0 "Radyn"
+b_yampil:0 "Yampil"
+b_korsun:0 "Korsun"
+b_haisyn:0 "Haisyn"
+b_turava:0 "Turava"
+b_sarn:0 "Sarn"
+b_selo:0 "Selo"
+b_korostenis:0 "Korostenis"
+b_mazyr:0 "Mazyr"
+b_lelchyt:0 "Lelchyt"
+b_naroul:0 "Naroul"
+b_stepan:0 "Stepan"
+b_liubeshiv:0 "Liubeshiv"
+b_priluk:0 "Priluk"
+b_boryspil:0 "Boryspil"
+b_hradyzk:0 "Hradyzk"
+b_caer_amuirehen:0 "Kaer Morhen" # Canon
+b_caed_amuirehen:0 "Morhen Vale" # Canon
+b_lida:0 "Lida"
+b_grodno:0 "Grodno"
+b_hrodna:0 "Hrodna"
+b_valkavi:0 "Valkavi"
+b_visk:0 "Visk"
+b_sokolka:0 "Sokolka"
+b_naugardu:0 "Naugardu"
+b_vattweir:0 "Vattweir" # Canon
+b_slonim:0 "Slonim"
+b_luniecas:0 "Luniecas"
+b_daevon:0 "Daevon" # Canon
+b_dazvyn:0 "Dazvyn"
+b_luninets:0 "Luninets"
+b_sluck:0 "Sluck"
+b_glevissig:0 "Glevissig" # Canon
+b_kletsk:0 "Kletsk"
+b_baranovich:0 "Baranovich"
+b_zlobin:0 "Zlobin"
+b_babruysk:0 "Babruysk"
+b_kalinkavich:0 "Kalinkavich"
+b_lohojsk:0 "Lohojsk"
+b_maladzech:0 "Maladzech"
+b_barysava:0 "Barysava"
+b_orsha:0 "Orsha"
+b_drutsk:0 "Drutsk"
+b_polotsk:0 "Polotsk"
+b_polockas:0 "Polockas"
+b_drysa:0 "Drysa"
+b_myroy:0 "Myroy"
+b_lukoml:0 "Lukoml"
+b_ban_amuirehen:0 "Lower Morhen" # Canon
+b_craag_amuirehen:0 "Morhen Crags" # Canon
+b_rylsk:0 "Rylsk"
+b_lukomsk:0 "Lukomsk"
+b_hlybok:0 "Hlybok"
+b_glebokie:0 "Glebokie"
+b_haradok:0 "Haradok"
+b_vitebsk:0 "Vitebsk"
+b_yelnya:0 "Yelnya"
+b_dorogobyz:0 "Dorogobyz"
+b_vyazma:0 "Vyazma"
+b_gnezdovo:0 "Gnezdovo"
+b_veliz:0 "Veliz"
+b_klimav:0 "Klimav"
+b_cherykaw:0 "Cherykaw"
+b_leyda:0 "Leyda"
+b_torope:0 "Torope"
+b_lotoshino:0 "Lotoshino"
+b_ozerski:0 "Ozerski"
+b_zubstov:0 "Zubstov"
+b_timerovo:0 "Timerovo"
+b_uglich:0 "Uglich"
+b_volochok:0 "Volochok"
+b_yegoryevsk:0 "Yegoryevsk"
+b_suzdal:0 "Suzdal"
+b_ard_carraigh:0 "Ard Carraigh" # Canon
+b_volok:0 "Volok"
+b_ivanovo:0 "Ivanovo"
+b_yuryev:0 "Yuryev"
+b_tver:0 "Tver"
+b_gavrilovsk:0 "Gavrilovsk"
+b_klin:0 "Klin"
+b_kashin:0 "Kashin"
+b_serpukhov:0 "Serpukhov"
+b_fominsk:0 "Fominsk"
+b_naro:0 "Naro"
+b_pronsk:0 "Pronsk"
+b_yelets:0 "Yelets"
+b_murom:0 "Murom"
+b_vyksa:0 "Vyksa"
+b_gorodets:0 "Gorodets"
+b_kineshma:0 "Kineshma"
+b_plyos:0 "Plyos"
+b_makariev:0 "Makariev"
+b_vilikaya:0 "Vilikaya"
+b_shuya:0 "Shuya"
+b_kostroma:0 "Kostroma"
+b_chukhloma:0 "Chukhloma"
+b_manturovo:0 "Manturovo"
+b_galich:0 "Galich"
+b_mersky:0 "Mersky"
+b_biarmia:0 "Biarmia"
+b_ban_glean:0 "Ban Gleann" # Canon
+b_kholmo:0 "Kholmo"
+b_navolok:0 "Navolok"
+b_lopshenga:0 "Lopshenga"
+b_korelsk:0 "Korelsk"
+b_onega:0 "Onega"
+b_malashuyka:0 "Shaerrawedd" # Canon
+b_malenga:0 "Malenga"
+b_povenets:0 "Povenets"
+b_yangar:0 "Yangar"
+b_ugtilin:0 "Ugtilin"
+b_geronev:0 "Geronev"
+b_lugni:0 "Lugni"
+b_ban_ard:0 "Ban Ard" # Canon
+b_kustranda:0 "Kustranda"
+b_pudozh:0 "Pudozh"
+b_vershinin:0 "Vershinin"
+b_yarnema:0 "Yarnema"
+b_chudia:0 "Chudia"
+b_vitzgor:0 "Vitzgor"
+b_pelsina:0 "Pelsina"
+b_kirillov:0 "Kirillov"
+b_totma:0 "Totma"
+b_tischna:0 "Tischna"
+b_kadnikov:0 "Kadnikov"
+b_tasta:0 "Tasta"
+b_loc_muinne:0 "Loc Muinne" # Canon
+b_ban_muinne:0 "Ban Muinne"
+b_craag_avran:0 "Craag a'Vran"
+b_acorn_bay:0 "Acorn Bay" # Canon
+b_minden:0 "Minden"
+b_bleobheris:0 "Bleobheris" # Canon
+b_perch:0 "Crow's Perch" # Canon
+b_fyke:0 "Wyndamer"
+b_mulbrydale:0 "Mulbrydale" # Canon
+b_crookback:0 "Crookback Bog" # Canon
+b_kimbolt:0 "Kimbolt" # Canon
+b_scalenberg:0 "Scalenberg"
+b_bremen:0 "Bremen"
+b_valette:0 "Valette" # Canon
+b_zeven:0 "Zeven"
+b_wolpe:0 "Wolpe"
+b_depenau:0 "Depenau"
+b_wunsdorf:0 "Wunsdorf"
+b_woldenberg:0 "Woldenberg"
+b_hildesheim:0 "Hildesheim"
+b_dassel:0 "Dassel"
+b_twisringen:0 "Twisringen"
+b_brachen:0 "Brachen"
+b_homburg:0 "Homburg"
+b_osnabruck:0 "Osnabruck"
+b_tecklenburg:0 "Tecklenburg"
+b_houtburg:0 "Houtburg" # Canon
+b_ravensberg:0 "Ravensberg"
+b_cloppenburg:0 "Cloppenburg"
+b_tekleburg:0 "Tekleburg"
+b_vechta:0 "Vechta"
+b_papenburg:0 "Papenburg"
+b_munster:0 "Munster"
+b_meppen:0 "Meppen"
+b_warendorf:0 "Warendorf"
+b_waldeck:0 "Waldeck"
+b_bentheim:0 "Bentheim"
+b_ahlen:0 "Ahlen"
+b_soest:0 "Soest"
+b_dorndal:0 "Dorndal" # Canon
+b_witten:0 "Witten"
+b_brakel:0 "Brakel"
+b_paderborn:0 "Paderborn"
+b_nessvelt:0 "Nessvelt" # Canon
+b_ostfal:0 "Ostfal"
+b_lippstadt:0 "Lippstadt"
+b_tailles:0 "Tailles" # Canon
+b_buren:0 "Buren"
+b_wieden:0 "Wieden"
+b_ellander:0 "Ellander" # Canon
+b_celle:0 "Celle"
+b_melitele:0 "Melitele's Sanctuary" # Canon
+b_brun:0 "Brun"
+b_stendal:0 "Stendal"
+b_boelen:0 "Boelen"
+b_burdal:0 "Burdal"
+b_white_bridge:0 "White Bridge" # Canon
+b_uelzen:0 "Uelzen"
+b_walsrode:0 "Walsrode"
+b_moen:0 "Moen" # Canon
+b_olftenbuttel:0 "Olftenbuttel"
+b_buxtehude:0 "Buxtehude"
+b_gors_velen:0 "Gors Velen" # Canon
+b_dannenberg:0 "Dannenberg"
+b_stirndal:0 "Stirndal"
+b_luchow:0 "Luchow"
+b_thanedd:0 "Thanedd" # Canon
+b_ansbach:0 "Ansbach" # Canon
+b_gardelegen:0 "Gardelegen"
+b_werben:0 "Werben"
+b_crailsheim:0 "Crailsheim"
+b_onoltesbach:0 "Onoltesbach"
+b_hirundum:0 "Hirundum" # Canon
+b_kiel:0 "Kiel"
+b_neumunster:0 "Neumunster"
+b_anchor:0 "Anchor" # Canon
+b_stade:0 "Stade"
+b_bederkesa:0 "Bederkesa"
+b_femera:0 "Femera"
+b_radebul:0 "Radebul"
+b_swerda:0 "Swerda"
+b_freiberg:0 "Freiberg"
+b_milcen:0 "Milcen"
+b_meissen:0 "Meissen"
+b_grossenhain:0 "Grossenhain"
+b_jilobor:0 "Jilobor"
+b_leisnin:0 "Leisnin"
+b_eilenburg:0 "Eilenburg"
+b_dorian:0 "Dorian" # Canon
+b_naumburg:0 "Naumburg"
+b_zeitz:0 "Zeitz"
+b_altenburg:0 "Altenburg"
+b_plisnia:0 "Plisnia"
+b_plauen:0 "Plauen"
+b_rehau:0 "Rehau"
+b_gera:0 "Gera"
+b_kamenz:0 "Kamenz"
+b_ivalo:0 "Ivalo" # Canon
+b_lubben:0 "Lubben"
+b_gorlitz:0 "Gorlitz"
+b_gorel:0 "Gorel"
+b_mortara:0 "Mortara" # Canon
+b_bautzen:0 "Bautzen"
+b_spremberg:0 "Spremberg"
+b_jutriboc:0 "Jutriboc"
+b_lausitz:0 "Lausitz"
+b_beliz:0 "Beliz"
+b_blota:0 "Blota"
+b_sprewald:0 "Sprewald"
+b_torgau:0 "Torgau"
+b_vizima:0 "Vizima" # Canon
+b_riverside:0 "Riverside" # Canon
+b_outskirts:0 "Outskirts" # Canon
+b_riverbank:0 "Riverbank" # Canon
+b_lakeside:0 "Lakeside" # Canon
+b_cemetery:0 "Upper Swamps" # Canon
+b_swamp:0 "Lower Swamps" # Canon
+b_maribor:0 "Maribor" # Canon
+b_halberstadt:0 "Halberstadt"
+b_cleves:0 "Cleves" # Canon
+b_blankenburg:0 "Blankenburg"
+b_gommern:0 "Gommern"
+b_arnstein:0 "Arnstein"
+b_werningerode:0 "Werningerode" # Canon
+b_amavet:0 "Amavet"
+b_white_orchard:0 "White Orchard" # Canon
+b_hovel:0 "Hovel" # Canon
+b_carreras:0 "Carreras" # Canon
+b_orlamunde:0 "Orlamunde"
+b_kafernburg:0 "Kafernburg"
+b_schwarzburg:0 "Schwarzburg"
+b_lobdaburg:0 "Lobdaburg"
+b_hof:0 "Hof"
+b_diekirch:0 "Diekirch"
+b_sangerhausen:0 "Sangerhausen"
+b_mansfeld:0 "Mansfeld"
+b_hohenstein:0 "Hohenstein"
+b_mersenburg:0 "Mersenburg"
+b_marseburg:0 "Marseburg"
+b_clerva:0 "Clerva"
+b_garramone:0 "Garramone" # Canon
+b_virton:0 "Virton"
+b_namur:0 "Namur"
+b_couvin:0 "Couvin"
+b_etcheverry:0 "Etcheverry" # Canon
+b_turnhout:0 "Turnhout"
+b_breda:0 "Breda"
+b_roche:0 "Roche"
+b_rosendaal:0 "Rosendaal"
+b_hainaut:0 "Hainaut"
+b_leuven:0 "Leuven"
+b_malboden:0 "Malboden"
+b_valenciennes:0 "Valenciennes"
+b_mayena:0 "Mayena" # Canon
+b_julich:0 "Julich"
+b_aquisgrana:0 "Aquisgrana"
+b_prum:0 "Prum"
+b_eschweiler:0 "Eschweiler"
+b_gladbach:0 "Gladbach"
+b_wezel:0 "Wezel"
+b_duren:0 "Duren"
+b_moers:0 "Moers"
+b_eindhoven:0 "Eindhoven"
+b_beda:0 "Beda"
+b_brucken:0 "Brucken"
+b_puttlingen:0 "Puttlingen"
+b_finstigen:0 "Finstigen"
+b_salm:0 "Salm"
+b_neufchateau:0 "Neufchateau"
+b_vaudemont:0 "Vaudemont"
+b_forbach:0 "Forbach"
+b_neuss:0 "Neuss"
+b_dortmund:0 "Dortmund"
+b_faulquemont:0 "Faulquemont"
+b_ecklinghausen:0 "Ecklinghausen"
+b_bilstein:0 "Bilstein"
+b_roggeveen:0 "Roggeveen" # Canon
+b_austfold:0 "Austfold"
+b_udeval:0 "Udeval"
+b_hedal:0 "Hedal"
+b_rogovizna:0 "Rogovizna" # Canon
+b_jaworek:0 "Jaworek" # Canon
+b_dudek:0 "Dudek" # Canon
+b_rissberg:0 "Rissberg" # Canon
+b_kablaki:0 "Kablaki"
+b_warzelnia:0 "Warzelnia"
+b_cidaris:0 "Cidaris" # Canon
+b_agdeside:0 "Agdeside"
+b_heiane:0 "Heiane"
+b_voss:0 "Voss"
+b_breman:0 "Breman"
+b_vartburg:0 "Vartburg" # Canon
+b_verdal:0 "Verdal"
+b_hitrar:0 "Hitrar"
+b_vole:0 "Vole" # Canon
+b_jolster:0 "Jolster"
+b_valdres:0 "Valdres"
+b_bremervoord:0 "Bremervoord" # Canon
+b_dovre:0 "Dovre"
+b_vagan:0 "Vagan"
+b_klastur:0 "Klastur"
+b_lonn:0 "Lonn"
+b_morarn:0 "Morarn"
+b_husav:0 "Husav"
+b_kerack:0 "Kerack" # Canon
+b_ansegis:0 "Ansegis" # Canon
+b_zgraggen:0 "Zgraggen" # Canon
+b_sotonin:0 "Sotonin" # Canon
+b_cizmar:0 "Cizmar" # Canon
+b_petrelsteyn:0 "Petrelsteyn" # Canon
+b_tiberghien:0 "Tiberghien" # Canon
+b_guaamez:0 "Guaamez" # Canon
+b_martindelcampo:0 "Martindelcampo" # Canon
+b_nastrog:0 "Nastrog" # Canon
+b_ormstrup:0 "Ormstrup"
+b_lindholm:0 "Lindholm"
+b_alborg:0 "Alborg"
+b_andros:0 "Andros"
+b_holsteb:0 "Holsteb"
+b_hedeby:0 "Hedeby"
+b_apenrade:0 "Apenrade"
+b_tarm:0 "Tarm"
+b_taulov:0 "Taulov"
+b_koldin:0 "Koldin"
+b_hamm:0 "Hamm" # Canon
+b_vorbasse:0 "Vorbasse"
+b_varde:0 "Varde"
+b_bodrog:0 "Bodrog" # Canon
+b_trelleborg:0 "Trelleborg"
+b_helsingborg:0 "Helsingborg"
+b_halmstad:0 "Halmstad"
+b_rozrog:0 "Rozrog" # Canon
+b_bornholm:0 "Bornholm"
+b_ronne:0 "Ronne"
+b_helsingor:0 "Helsingor"
+b_bregne:0 "Bregne"
+b_avaskar:0 "Avaskar"
+b_burnt_stump:0 "Burnt Stump" # Canon
+b_delft:0 "Delft"
+b_dort:0 "Dort"
+b_aarlem:0 "Aarlem"
+b_eighth_mile:0 "Eighth Mile" # Canon
+b_medemblik:0 "Medemblik" # Canon
+b_aalkmar:0 "Aalkmar"
+b_seventh_mile:0 "Seventh Mile" # Canon
+b_brielle:0 "Brielle"
+b_middelburg:0 "Middelburg"
+b_turlough:0 "Turlough" # Canon
+b_arderwik:0 "Arderwik"
+b_guelden:0 "Guelden"
+b_brugge:0 "Brugge" # Canon
+b_zwolle:0 "Zwolle"
+b_coevorden:0 "Coevorden"
+b_ommen:0 "Ommen"
+b_borculo:0 "Borculo"
+b_dillingen:0 "Dillingen" # Canon
+b_leeuwarden:0 "Leeuwarden"
+b_harlingen:0 "Harlingen"
+b_geldern:0 "Geldern"
+b_tielen:0 "Tielen"
+b_nijmegen:0 "Nijmegen"
+b_arnhem:0 "Arnhem"
+b_kernow:0 "Kernow"
+b_apeldoorn:0 "Apeldoorn"
+b_amersfoort:0 "Amersfoort"
+b_steenwik:0 "Steenwik"
+b_almelo:0 "Almelo"
+b_kampen:0 "Kampen"
+b_borcele:0 "Borcele"
+b_wadeilan:0 "Wadeilan"
+b_edam:0 "Edam"
+b_medenblik:0 "Medenblik"
+b_appingedam:0 "Appingedam"
+b_varel:0 "Varel"
+b_assen:0 "Assen"
+b_brenna:0 "Brenna" # Canon
+b_old_bottoms:0 "Old Bottoms" # Canon
+b_vijver:0 "Vijver"
+b_duen_canell:0 "Duén Canell" # Canon
+b_gwened:0 "Gwened"
+b_naoned:0 "Naoned"
+b_cemped:0 "Cemped"
+b_caer_paol:0 "Caer Paol"
+b_gellau:0 "Gellau"
+b_merioneth:0 "Merioneth"
+b_corwen:0 "Corwen"
+b_caer_narfon:0 "Caer Narfon"
+b_tegein:0 "Tegein"
+b_ruthein:0 "Ruthein"
+b_caer_gyf:0 "Caer Gyf"
+b_matrafal:0 "Matrafal"
+b_macyn:0 "Macyn"
+b_col_serrai:0 "Col Serrai" # Canon
+b_lanyd:0 "Lanyd"
+b_ceatha:0 "Ceatha"
+b_faesyfed:0 "Faesyfed"
+b_gwaun:0 "Gwaun"
+b_dydd:0 "Dydd"
+b_ergyn:0 "Ergyn"
+b_trefyn:0 "Trefyn"
+b_brycein:0 "Brycein"
+b_cenefelde:0 "Cenefelde"
+b_aberhon:0 "Aberhon"
+b_taelga:0 "Taelga"
+b_craag_an:0 "Craag An" # Canon
+b_dulyn:0 "Dulyn"
+b_troim:0 "Troim"
+b_drochea:0 "Drochea"
+b_arghais:0 "Arghais"
+b_dealgan:0 "Dealgan"
+b_baileatha:0 "Baileatha"
+b_fahain:0 "Fahain"
+b_gaillimhe:0 "Gaillimhe"
+b_corthaidh:0 "Corthaidh"
+b_armeria:0 "Armeria" # Canon
+b_udine:0 "Udine"
+b_grado:0 "Grado"
+b_caorle:0 "Caorle"
+b_carcano:0 "Carcano"
+b_pordenone:0 "Pordenone"
+b_gruaro:0 "Gruaro"
+b_gorizia:0 "Gorizia"
+b_lessinia:0 "Lessinia"
+b_garda:0 "Garda"
+b_adria:0 "Adria"
+b_rovigo:0 "Rovigo"
+b_polesine:0 "Polesine"
+b_vidort:0 "Vidort" # Canon
+b_asti:0 "Asti"
+b_acqui:0 "Acqui"
+b_santhia:0 "Santhia"
+b_breza:0 "Breza" # Canon
+b_biell:0 "Biell"
+b_mondovi:0 "Mondovi"
+b_varese:0 "Varese"
+b_gallarate:0 "Gallarate"
+b_monza:0 "Monza"
+b_pombia:0 "Pombia"
+b_tirano:0 "Tirano"
+b_camonica:0 "Camonica"
+b_klamat:0 "Klamat" # Canon
+b_luzern:0 "Luzern"
+b_zug:0 "Zug"
+b_kagen:0 "Kagen" # Canon
+b_ernst:0 "Ernst"
+b_ridsdorf:0 "Ridsdorf"
+b_padun:0 "Padun"
+b_orbetello:0 "Orbetello"
+b_bruck:0 "Bruck"
+b_mistelbach:0 "Mistelbach"
+b_grosset:0 "Grosset"
+b_polten:0 "Polten"
+b_wiesel:0 "Wiesel"
+b_brescel:0 "Brescel"
+b_guastal:0 "Guastal"
+b_impruneta:0 "Impruneta"
+b_kaczan:0 "Kaczan" # Canon
+b_klucz:0 "Klucz" # Canon
+b_porog:0 "Porog" # Canon
+b_red_lobinden:0 "Red Lobinden" # Canon
+b_ysgith:0 "Ysgith" # Canon
+b_bloed_carn:0 "Bloed Carn" # Canon
+b_tuzla:0 "Tuzla" # Canon
+b_sorpigal:0 "Sorpigal" # Canon
+b_friul:0 "Friul" # Canon
+b_caed_dhu:0 "Caed_Dhu" # Canon
+b_treis:0 "Treis"
+b_monduirn:0 "Monduirn" # Canon
+b_udin:0 "Udin"
+b_grada:0 "Grada"
+b_porden:0 "Porden"
+b_ban_newi:0 "Ban Newi" # Canon
+b_gorz:0 "Gorz"
+b_triglav:0 "Triglav"
+b_haern_caduch:0 "Haern Caduch" # Canon
+b_lessin:0 "Lessin"
+b_prato:0 "Prato"
+b_vallombrosa:0 "Vallombrosa"
+b_cortona:0 "Cortona"
+b_padin:0 "Padin"
+b_esten:0 "Esten"
+b_montagnan:0 "Montagnan"
+b_arneburg:0 "Arneburg"
+b_chivay:0 "Chivay" # Canon
+b_zerb:0 "Zerb"
+b_ciervist:0 "Ciervist"
+b_goltern:0 "Goltern"
+b_breckenriggs:0 "Breckenriggs" # Canon
+b_arnstad:0 "Arnstad"
+b_moran:0 "Moran" # Canon
+b_gommarn:0 "Gommarn"
+b_dorpat:0 "Dorpat"
+b_dahlberg:0 "Dahlberg" # Canon
+b_hallestein:0 "Hallestein"
+b_bruchhausen:0 "Bruchhausen"
+b_kretschmar:0 "Kretschmar" # Canon
+b_skaggs:0 "Skaggs" # Canon
+b_els:0 "Els" # Canon
+b_grouver:0 "Grouver"
+b_rostock:0 "Rostock"
+b_bringgs:0 "Bringgs"
+b_burdon:0 "Burdon" # Canon
+b_vidmar:0 "Vidmar" # Canon
+b_gausel:0 "Gausel" # Canon
+b_rafberg:0 "Rafberg"
+b_fornlam:0 "Fornlam" # Canon
+b_zigrin:0 "Zigrin" # Canon
+b_breven:0 "Breven"
+b_gornheim:0 "Gornheim"
+b_wyrmstad:0 "Wyrmstad"
+b_altberg:0 "Altberg" # Canon
+b_carbon:0 "Mount Carbon" # Canon
+b_rhundurin:0 "Rhundurin" # Canon
+b_bardewik:0 "Bardewik"
+b_myrkheim:0 "Myrkheim" # Canon
+b_langbridge:0 "Langbridge" # Canon
+b_hoog:0 "Hoog" # Canon
+b_wolpan:0 "Wolpan"
+b_hensdorf:0 "Hensdorf"
+b_graem:0 "Graem"
+b_boro:0 "Boro"
+b_fuchs:0 "Fuchs" # Canon
+b_ferenc:0 "Ferenc" # Canon
+b_ros:0 "Ros" # Canon
+b_cianfanelli:0 "Cianfanelli" # Canon
+b_flotsam:0 "Flotsam" # Canon
+b_lobinden:0 "Lobinden" # Canon
+b_caelmewedd:0 "Caelmewedd" # Canon
+b_hagge:0 "Hagge" # Canon
+b_schalerberg:0 "Schalerberg"
+b_lippen:0 "Lippen"
+b_zevestein:0 "Zevestein"
+b_tecklenstein:0 "Tecklenstein"
+b_meppe:0 "Meppe"
+b_munstheim:0 "Munstheim"
+b_vergen:0 "Vergen" # Canon
+b_gardel:0 "Gardel"
+b_werb:0 "Werb"
+b_stendeberg:0 "Stendeberg"
+b_kiela:0 "Kiela"
+b_femeck:0 "Femeck"
+b_kesabeder:0 "Kesabeder"
+b_lubhaven:0 "Lubhaven"
+b_zehmarschen:0 "Zehmarschen"
+b_ditmar:0 "Ditmar"
+b_meiss:0 "Meiss"
+b_rezden:0 "Rezden"
+b_bischof:0 "Bischof"
+b_asheberg:0 "Asheberg" # Canon
+b_ahlendorf:0 "Ahlendorf"
+b_renoest:0 "Renoest"
+b_burenstein:0 "Burenstein"
+b_wiedenstein:0 "Wiedenstein"
+b_lippenborn:0 "Lippenborn"
+b_runeburg:0 "Runeburg"
+b_cella:0 "Cella"
+b_walsbuttel:0 "Walsbuttel"
+b_elzen:0 "Elzen"
+b_aldersberg:0 "Aldersberg" # Canon
+b_braithwaite:0 "Braithwaite" # Canon
+b_lapisfelde:0 "Lapisfelde" # Canon
+b_hoarton:0 "Hoarton" # Canon
+b_rosberg:0 "Rosberg" # Canon
+b_gatberg:0 "Gatberg" # Canon
+b_trogir:0 "Trogir"
+b_gaenvid:0 "Gaenvid" # Canon
+b_aillaen:0 "Aillaen"
+b_oaghen:0 "Oaghen"
+b_vengerberg:0 "Vengerberg" # Canon
+b_dessan:0 "Dessan"
+b_sangerberg:0 "Sangerberg"
+b_halberberg:0 "Halberberg"
+b_ankensfeld:0 "Ankensfeld"
+b_mersen:0 "Mersen"
+b_leipenfeld:0 "Leipenfeld"
+b_brucholz:0 "Brucholz"
+b_velkart:0 "Velkart"
+b_lutin:0 "Lutin"
+b_hamerlen:0 "Hamerlen"
+b_kalkar:0 "Kalkar" # Canon
+b_tunberg:0 "Tunberg"
+b_freistein:0 "Freistein"
+b_wolken:0 "Wolken"
+b_tiel:0 "Tiel" # Canon
+b_walren:0 "Walren"
+b_jiloberg:0 "Jiloberg"
+b_leisen:0 "Leisen"
+b_eileberg:0 "Eileberg"
+b_zeizberg:0 "Zeizberg"
+b_bergaendahl:0 "Berg Aen Dahl" # Canon
+b_plisberg:0 "Plisberg"
+b_vogberg:0 "Vogberg"
+b_est_haemlet:0 "Est Haemlet" # Canon
+b_glean_haemlet:0 "Glean Haemlet" # Canon
+b_pont_ar_gwennelen:0 "Pont Ar Gwennelen" # Canon
+b_guleta:0 "Guleta" # Canon
+b_grisons:0 "Grisons"
+b_gurez:0 "Gurez"
+b_farduz:0 "Farduz"
+b_eysenlaan:0 "Eysenlaan" # Canon
+b_guenau:0 "Guenau"
+b_breisga:0 "Breisga"
+b_bleisen:0 "Bleisen"
+b_vares:0 "Vares"
+b_werden:0 "Werden"
+b_gallen:0 "Gallen"
+b_ard_dyfne:0 "Ard Dyfne" # Canon
+b_adenoch:0 "Adenoch"
+b_ceann_dyfne:0 "Ceann Dyfne" # Canon
+b_craag_dyfne:0 "Craag Dyfne" # Canon
+b_feirste:0 "Feirste"
+b_engelb:0 "Engelb"
+b_basen:0 "Basen"
+b_lisronagh:0 "Lisronagh"
+b_colmar:0 "Colmar"
+b_selestat:0 "Selestat"
+b_caslach:0 "Caslach"
+b_ferrette:0 "Ferrette"
+b_porrentru:0 "Porrentru"
+b_glean_posada:0 "Lower Posada" # Canon
+b_ard_posada:0 "Upper Posada" # Canon
+b_feivne:0 "Feivne"
+b_bealca:0 "Bealca"
+b_maedfa:0 "Maedfa"
+b_leiven:0 "Leiven"
+b_oessen:0 "Oessen"
+b_gabraen:0 "Gabraen"
+b_cilligh:0 "Cilligh"
+b_cainnen:0 "Cainnen"
+b_luimnean:0 "Luimnean"
+b_heum:0 "Heum"
+b_roscrea:0 "Roscrea"
+b_tor_argead:0 "Tor Argead" # Canon
+b_dulein:0 "Dulein"
+b_caile:0 "Caile"
+b_dreichda:0 "Dreichda"
+b_aleot:0 "Aleot"
+b_oriel:0 "Oriel"
+b_ealgan:0 "Ealgan"
+b_leag:0 "Leag"
+b_cloeve:0 "Cloeve"
+b_reilec:0 "Reilec"
+b_fevan:0 "Fevan"
+b_coenacht:0 "Coenacht"
+b_cruech:0 "Cruech"
+b_rivia:0 "Rivia"
+b_elm:0 "Elm"
+b_egon:0 "Egon"
+b_maloebon:0 "Maloebon"
+b_helfen:0 "Helfen"
+b_willowhain:0 "Willowhain" # Canon
+b_schelk:0 "Schelk"
+b_lingen:0 "Lingen"
+b_craag_ros:0 "Craag Ros" # Canon
+b_sigmarin:0 "Sigmarin"
+b_berge:0 "Berge"
+b_caldwell:0 "Caldwell" # Canon
+b_wurttem:0 "Wurttem"
+b_tubin:0 "Tubin"
+b_brossard:0 "Brossard" # Canon
+b_badin:0 "Badin"
+b_sulz:0 "Sulz"
+b_zoll:0 "Zoll"
+b_kaveldun:0 "Kaveldun" # Canon
+b_vehrin:0 "Vehrin"
+b_reutlin:0 "Reutlin"
+b_henberg:0 "Henberg" # Canon
+b_odo:0 "Odo" # Canon
+b_triberg:0 "Triberg"
+b_esposito:0 "Esposito"
+b_rottweil:0 "Rottweil"
+b_fursten:0 "Fursten"
+b_lyria:0 "Lyria" # Canon
+b_hawkesburn:0 "Hawkesburn" # Canon
+b_wetterton:0 "Wetterton" # Canon
+b_lokeren:0 "Lokeren" # Canon
+b_elsterberg:0 "Elsterberg"
+b_scala:0 "Scala" # Canon
+b_regen:0 "Regen"
+b_tegern:0 "Tegern"
+b_spalla:0 "Spalla" # Canon
+b_abensberg:0 "Abensberg"
+b_leonsberg:0 "Leonsberg"
+b_rastburg:0 "Rastburg" # Canon
+b_halmdike:0 "Halmdike" # Canon
+b_munchen:0 "Munchen"
+b_dravograd:0 "Dravograd" # Canon
+b_turnifen:0 "Turnifen"
+b_sloback:0 "Sloback"
+b_aheim:0 "Aheim"
+b_olfrashausen:0 "Olfrashausen"
+b_eschen:0 "Eschen"
+b_eschenlohe:0 "Eschenlohe"
+b_ban_esken:0 "Ban Esken"
+b_rothenburg:0 "Rothenburg"
+b_freisin:0 "Freisin"
+b_ilmunst:0 "Ilmunst"
+b_kaer_almhult:0 "Kaer Almhult" # Canon
+b_kaer_trolde:0 "Kaer Trolde" # Canon
+b_cala_trolde:0 "Cala Trolde" # Canon
+b_crosbhothar:0 "Crosbhothar" # Canon
+b_kaer_etnir:0 "Kaer Etnir" # Canon
+b_rogne:0 "Rogne" # Canon
+b_yustianna:0 "Yustianna" # Canon
+b_kaer_gelen:0 "Kaer Gelen" # Canon
+b_gedyneith:0 "Gedyneith" # Canon
+b_blandare:0 "Blandare" # Canon
+b_redgill:0 "Redgill" # Canon
+b_kaer_muire:0 "Kaer Muire" # Canon
+b_holmstein:0 "Holmstein" # Canon
+b_kaer_dhu:0 "Kaer Dhu" # Canon
+b_fornhala:0 "Fornhala" # Canon
+b_sund:0 "Sund" # Canon
+b_arinbjorn:0 "Arinbjorn" # Canon
+b_kaer_nyssen:0 "Kaer Nyssen" # Canon
+b_boxholm:0 "Boxholm" # Canon
+b_fayrlund:0 "Fayrlund" # Canon
+b_rannvaig:0 "Rannvaig" # Canon
+b_kaer_grymmdjarr:0 "Kaer Grymmdjarr" # Canon
+b_fyresdal:0 "Fyresdal" # Canon
+b_elverum:0 "Elverum" # Canon
+b_tordarroch:0 "Tordarroch" # Canon
+b_urskar:0 "Urskar" # Canon
+b_dorve:0 "Dorve" # Canon
+b_kaer_brokvar:0 "Kaer Brokvar" # Canon
+b_svorlag:0 "Svorlag" # Canon
+b_hov:0 "Hov" # Canon
+b_kaer_tuirseach:0 "Kaer Tuirseach" # Canon
+b_urialla:0 "Urialla" # Canon
+b_larvik:0 "Larvik" # Canon
+b_lofoten:0 "Lofoten" # Canon
+b_lurthen:0 "Lurthen" # Canon
+b_harviken:0 "Harviken" # Canon
+b_trottheim:0 "Trottheim" # Canon
+b_kaer_strept:0 "Kaer Strept"
+b_cercenn:0 "Cercenn"
+b_coupar:0 "Coupar"
+b_crienn:0 "Crienn"
+b_kircald:0 "Kircald"
+b_dunferm:0 "Dunferm"
+b_straton:0 "Straton"
+b_callander:0 "Callander"
+b_clennan:0 "Clennan"
+b_atholl:0 "Atholl"
+b_cintra:0 "Cintra" # Canon
+b_aberfeld:0 "Aberfeld"
+b_dunkell:0 "Dunkell"
+b_riemuir:0 "Riemuir"
+b_mearn:0 "Mearn"
+b_ballater:0 "Ballater"
+b_kincarn:0 "Kincarn"
+b_aberde:0 "Aberde"
+b_tigg:0 "Tigg" # Canon
+b_lennow:0 "Lennow"
+b_galvey:0 "Galvey"
+b_hochebuz:0 "Hochebuz" # Canon
+b_clut:0 "Clut"
+b_duanber:0 "Duanber"
+b_ortagor:0 "Ortagor" # Canon
+b_meneith:0 "Meneith"
+b_kulbrit:0 "Kulbrit"
+b_harton:0 "Harton"
+b_girvan:0 "Girvan"
+b_carrick:0 "Carrick"
+b_maybol:0 "Maybol"
+b_ayre:0 "Ayre"
+b_gryte:0 "Gryte"
+b_atham:0 "Atham"
+b_erlenwald:0 "Erlenwald" # Canon
+b_ennendale:0 "Ennendale"
+b_medfri:0 "Medfri"
+b_cnil:0 "Cnil"
+b_hyer:0 "Hyer"
+b_myl:0 "Myl"
+b_levis:0 "Levis"
+b_jodus:0 "Jodus"
+b_vist:0 "Vist"
+b_attre:0 "Attre" # Canon
+b_argall:0 "Argall"
+b_glencoe:0 "Glencoe"
+b_lomond:0 "Lomond"
+b_ylarsund:0 "Ylarsund"
+b_murchon:0 "Murchon"
+b_ardnam:0 "Ardnam"
+b_doddin:0 "Doddin"
+b_lothen:0 "Lothen"
+b_haddington:0 "Haddington"
+b_dinburgh:0 "Dinburgh"
+b_teviotdal:0 "Teviotdal"
+b_garioch:0 "Garioch"
+b_gedburgh:0 "Gedburgh"
+b_linlith:0 "Linlith"
+b_berwick:0 "Berwick"
+b_gowshire:0 "Gowshire"
+b_lanark:0 "Lanark"
+b_riedbrune:0 "Riedbrune" # Canon
+b_artevelde:0 "Artevelde" # Canon
+b_lonigo:0 "Lonigo"
+b_adril:0 "Adril"
+b_roviga:0 "Roviga"
+b_piedmont:0 "Piedmont"
+b_monferrat:0 "Monferrat"
+b_novara:0 "Novara"
+b_biella:0 "Biella"
+b_vercella:0 "Vercella"
+b_belhaven:0 "Belhaven" # Canon
+b_rialto:0 "Rialto" # Canon
+b_babette:0 "Babette" # Canon
+b_drozdeck:0 "Drozdeck"
+b_cuneo:0 "Cuneo"
+b_saluzzo:0 "Saluzzo"
+b_monzen:0 "Monzen"
+b_gallart:0 "Gallart"
+b_bergamo:0 "Bergamo"
+b_chiari:0 "Chiari"
+b_pomben:0 "Pomben"
+b_bellinz:0 "Bellinz"
+b_trento:0 "Trento"
+b_ban_myrkvid:0 "Ban Myrkvid" # Canon
+b_vigeo:0 "Vigeo"
+b_vogheri:0 "Vogheri"
+b_vedette:0 "Vedette" # Canon
+b_aste:0 "Aste"
+b_acque:0 "Acque"
+b_castel_ravello:0 "Castel Ravello" # Canon
+b_caer_astre:0 "Caer Astre" # Canon
+b_creux_du_renard:0 "Creux Du Renard" # Canon
+b_dun_tynne:0 "Dun Tynne" # Canon
+b_coronata:0 "Coronata" # Canon
+b_basane:0 "Basane" # Canon
+b_beauclair:0 "Beauclair" # Canon
+b_san_sebastian:0 "San Sebastian" # Canon
+b_rioux_cannes:0 "Rioux Cannes" # Canon
+b_corvo_bianco:0 "Corvo Bianco" # Canon
+b_caer_ussar:0 "Caer Ussar" # Canon
+b_ardaiso:0 "Ardaiso" # Canon
+b_flovive:0 "Flovive" # Canon
+b_casteldaccia:0 "Casteldaccia" # Canon
+b_belgaard:0 "Belgaard" # Canon
+b_francollarts:0 "Francollarts" # Canon
+b_caroberta:0 "Caroberta Forest" # Canon
+b_glevitzingen:0 "Glevitzingen" # Canon
+b_chaumont:0 "Chaumont"
+b_auxerre:0 "Auxerre"
+b_chablis:0 "Chablis"
+b_autun:0 "Autun"
+b_montbard:0 "Montbard"
+b_vezel:0 "Vezel"
+b_beaune:0 "Beaune"
+b_morvan:0 "Morvan"
+b_cluny:0 "Cluny"
+b_roesel:0 "Roesel"
+b_peren:0 "Peren"
+b_veurne:0 "Veurne"
+b_caiseal:0 "Caiseal"
+b_tulach:0 "Tulach"
+b_beann:0 "Beann"
+b_oilean:0 "Oilean"
+b_taobh:0 "Taobh"
+b_breac:0 "Breac"
+b_lios:0 "Lios"
+b_seascann:0 "Seascann"
+b_ceapach:0 "Ceapach"
+b_riabhach:0 "Riabhach"
+b_cathair:0 "Cathair"
+b_liath:0 "Liath"
+b_cluain:0 "Cluain"
+b_aube:0 "Aube"
+b_sens:0 "Sens"
+b_mezieres:0 "Mezieres"
+b_rethel:0 "Rethel"
+b_dizier:0 "Dizier"
+b_chalons:0 "Chalons"
+b_perthois:0 "Perthois"
+b_meaux:0 "Meaux"
+b_coulommiers:0 "Coulommiers"
+b_perche:0 "Perche"
+b_dreux:0 "Dreux"
+b_vendom:0 "Vendom"
+b_gwendeith:0 "Gwendeith" # Canon
+b_invaernin:0 "Invaernin"
+b_baednoch:0 "Baednoch"
+b_glenfiann:0 "Glenfiann"
+b_glenelg:0 "Glenelg"
+b_urcuhar:0 "Urcuhar"
+b_droehe:0 "Droehe"
+b_isneach:0 "Isneach"
+b_adraig:0 "Adraig"
+b_slemeag:0 "Slemeag"
+b_deilan:0 "Deilan"
+b_fiarden:0 "Fiarden"
+b_fathain:0 "Fathain"
+b_ceinoc:0 "Ceinoc"
+b_atiar:0 "Atiar"
+b_cebhan:0 "Cebhan"
+b_lengphert:0 "Lengphert"
+b_ceabhan:0 "Ceabhan"
+b_adreagh:0 "Adreagh"
+b_garman:0 "Garman"
+b_maed:0 "Maed"
+b_fearnin:0 "Fearnin"
+b_ceatharlach:0 "Ceatharlach"
+b_keincor:0 "Keincor"
+b_lairge:0 "Lairge"
+b_corthaide:0 "Corthaide"
+b_nenagh:0 "Nenagh"
+b_roscre:0 "Roscre"
+b_bealach:0 "Bealach"
+b_coire:0 "Coire"
+b_muileann:0 "Muileann"
+b_cruach:0 "Cruach"
+b_doire:0 "Doire"
+b_mullach:0 "Mullach"
+b_fraoch:0 "Fraoch"
+b_domhnach:0 "Domhnach"
+b_monaidh:0 "Monaidh"
+b_droim:0 "Droim"
+b_eiscir:0 "Eiscir"
+b_machaire:0 "Machaire"
+b_fionn:0 "Fionn"
