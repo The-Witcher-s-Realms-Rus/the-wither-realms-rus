@@ -1,0 +1,82 @@
+﻿l_russian:
+
+# Sea Nordling Localization
+
+ sea_nordling_religion:0 "Скеллигск"
+ sea_nordling_religion_adj:0 "Культы Скеллиге"
+ sea_nordling_religion_adherent:0 "Последователь Культов Скеллиге"
+ sea_nordling_religion_adherent_plural:0 "Последователи Культов Скеллиге"
+ sea_nordling_religion_desc:0 "Скеллигеры прислушиваются к словам мудрой Модрон Фрейи и Седны, непостоянной Владычицы моря."
+
+ sea_nordling_high_god_name:0 "Фрейя"
+ sea_nordling_high_god_name_possessive:0 "Фрейи"
+ sea_nordling_high_god_name_alternate:0 "Седна"
+ sea_nordling_high_god_name_alternate_possessive:0 "Седна"
+ sea_nordling_devil_name:0 "Свальблод"
+ sea_nordling_devil_name_possessive:0 "Свальблод"
+ sea_nordling_evil_god_1:0 "Сюртр"
+ sea_nordling_evil_god_1_possessive:0 "Сюртр"
+ sea_nordling_evil_god_2:0 "Юмир"
+ sea_nordling_evil_god_2_possessive:0 "Юмир"
+ sea_nordling_death_deity_name:0 "Хель"
+ sea_nordling_death_deity_name_possessive:0 "Хель"
+ sea_nordling_death_deity_herhis:0 "ее"
+ sea_nordling_pantheon:0 "боги"
+
+ sea_nordling_creator_god_name:0 "$sea_nordling_high_god_name$"
+ sea_nordling_creator_god_name_possessive:0 "$sea_nordling_high_god_name_possessive$"
+ sea_nordling_health_god_name:0 "$sea_nordling_high_god_name$"
+ sea_nordling_health_god_name_possessive:0 "$sea_nordling_high_god_name_possessive$"
+ sea_nordling_fertility_god_name:0 "$sea_nordling_high_god_name$"
+ sea_nordling_fertility_god_name_possessive:0 "$sea_nordling_high_god_name_possessive$"
+ sea_nordling_wealth_god_name:0 "$sea_nordling_high_god_name_alternate$"
+ sea_nordling_wealth_god_name_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+ sea_nordling_household_god_name:0 "$sea_nordling_high_god_name$"
+ sea_nordling_household_god_name_possessive:0 "$sea_nordling_high_god_name_possessive$"
+ sea_nordling_fate_god_name:0 "Предназначение"
+ sea_nordling_fate_god_name_possessive:0 "Предназначение"
+ sea_nordling_knowledge_god_name:0 "$sea_nordling_high_god_name_alternate$"
+ sea_nordling_knowledge_god_name_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+ sea_nordling_war_god_name:0 "$sea_nordling_high_god_name_alternate$"
+ sea_nordling_war_god_name_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+ sea_nordling_trickster_god_name:0 "Предназначение"
+ sea_nordling_trickster_god_name_possessive:0 "Предназначение"
+ sea_nordling_night_god_name:0 "$sea_nordling_high_god_name_alternate$"
+ sea_nordling_night_god_name_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+ sea_nordling_water_god_name:0 "$sea_nordling_high_god_name_alternate$"
+ sea_nordling_water_god_name_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+
+ sea_nordling_house_of_worship:0 "храм"
+ sea_nordling_house_of_worship_plural:0 "храмы"
+ sea_nordling_religious_symbol:0 "трикветра"
+ sea_nordling_religious_text:0 "священные саги"
+ sea_nordling_religious_head_title:0 "Модрон"
+ sea_nordling_religious_head_title_name:0 "Первосвященство"
+ sea_nordling_devotee:0 "последователь"
+ sea_nordling_devoteeplural:0 "последователи"
+ sea_nordling_priest:0 "жрица"
+ sea_nordling_priest_plural:0 "жрица"
+ sea_nordling_priest_alternate_plural:1 "мудрые из них"
+ sea_nordling_bishop:0 "Модрон"
+ sea_nordling_bishop_plural:0 "Модрон"
+ sea_nordling_divine_realm:0 "Инис Афаллах"
+ witchgodname_sea_nordling_the_shadow:0 "$sea_nordling_high_god_name_alternate$"
+ witchgodname_sea_nordling_the_shadow_possessive:0 "$sea_nordling_high_god_name_alternate_possessive$"
+
+#  Faiths
+
+#   Freya
+
+ freya:0 "Фрейск"
+ freya_adj:0 "Культ Фрейи"
+ freya_adherent:0 "Последователь Культа Фрейи"
+ freya_adherent_plural:0 "Последователи Культа Фрейи"
+ freya_desc:0 "Последователи Фрейи сохраняют свою веру в то, что Великая Мать благословляет их семьи здоровьем, богатством и мудростью. Модрон Фрейя высечена в камне бесчисленных святилищ, с ее священными кошками у ее босых ног и священными соколами, парящими над ее плечами. Фрейя чаще всего появляется в образе беременной матери, склонившей голову в созерцании своих тайн. Ее просители приносят жертвы в виде товаров и обетов перед ее святынями, в то время как ее жрицы служат людям своим служением."
+
+#   Sedna
+
+ sedna:0 "Седнск"
+ sedna_adj:0 "Культ Седны"
+ sedna_adherent:0 "Последователь Культа Седны"
+ sedna_adherent_plural:0 "Последователи Культа Седны"
+ sedna_desc:0 "Богиня моря не менее непостоянна, чем волны, которые она посылает на берег, предлагая богатые запасы рыбы или затягивая корабли в свои холодные объятия. Торговцы и пираты одинаково боятся ее гнева, ибо она управляет морскими течениями и его многочисленными демонами. Считается, что жертвоприношения глубинам позволяют безопасно пересечь ее воды, хотя никакой жертвы недостаточно, чтобы защититься от капризов Седны."

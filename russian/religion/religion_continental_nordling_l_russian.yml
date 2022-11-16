@@ -1,0 +1,119 @@
+﻿l_russian:
+
+# Continental Nordling Localization
+
+ continental_nordling_religion:0 "Многобожническ"
+ continental_nordling_religion_adj:0 "Многобожничество"
+ continental_nordling_religion_adherent:0 "Многобожник"
+ continental_nordling_religion_adherent_plural:0 "Многобожники"
+ continental_nordling_religion_desc:0 "Многобожники поклоняются бесчисленным духам и божествам в синкретических обрядах. Их вера чаще всего основана на традициях: крестьяне Севера передают свои священные истории и ритуалы от одного поколения к другому. В своих молитвах, песнях и жертвоприношениях просители бесчисленных народных божеств надеются на общие благословения: хороший урожай, благополучные роды и убежище от монстров и злодеев."
+
+ continental_nordling_high_god_name:0 "Мелитэле"
+ continental_nordling_high_god_name_possessive:0 "Мелитэле"
+
+ continental_nordling_high_god_name_alternate:0 "Креве"
+ continental_nordling_high_god_name_alternate_possessive:0 "Креве"
+
+ continental_nordling_devil_name:0 "Хаос"
+ continental_nordling_devil_name_possessive:0 "Хаоса"
+
+ continental_nordling_evil_god_1:0 "Гибель"
+ continental_nordling_evil_god_1_possessive:0 "Гибели"
+ continental_nordling_evil_god_2:0 "Разложение"
+ continental_nordling_evil_god_2_possessive:0 "Разложения"
+
+ continental_nordling_death_deity_name:0 "Лильвани"
+ continental_nordling_death_deity_name_possessive:0 "Лильвани"
+ continental_nordling_death_deity_herhis:0 "ее"
+
+ continental_nordling_pantheon:0 "боги"
+
+ continental_nordling_creator_god_name:0 "$continental_nordling_high_god_name$"
+ continental_nordling_creator_god_name_possessive:0 "$continental_nordling_high_god_name_possessive$"
+ continental_nordling_health_god_name:0 "$continental_nordling_high_god_name$"
+ continental_nordling_health_god_name_possessive:0 "$continental_nordling_high_god_name_possessive$"
+ continental_nordling_fertility_god_name:0 "$continental_nordling_high_god_name$"
+ continental_nordling_fertility_god_name_possessive:0 "$continental_nordling_high_god_name_possessive$"
+ continental_nordling_wealth_god_name:0 "Хальдра"
+ continental_nordling_wealth_god_name_possessive:0 "Хальдры"
+ continental_nordling_household_god_name:0 "$continental_nordling_high_god_name$"
+ continental_nordling_household_god_name_possessive:0 "$continental_nordling_high_god_name_possessive$"
+ continental_nordling_fate_god_name:0 "Предназночение"
+ continental_nordling_fate_god_name_possessive:0 "Предназначеня"
+ continental_nordling_knowledge_god_name:0 "$continental_nordling_high_god_name_alternate$"
+ continental_nordling_knowledge_god_name_possessive:0 "$continental_nordling_high_god_name_alternate_possessive$"
+ continental_nordling_war_god_name:0 "Эпона"
+ continental_nordling_war_god_name_possessive:0 "Эпоны"
+ continental_nordling_trickster_god_name:0 "Хальдра"
+ continental_nordling_trickster_god_name_possessive:0 "Хильдры"
+ continental_nordling_night_god_name:0 "Лильвани"
+ continental_nordling_night_god_name_possessive:0 "Лильвани"
+ continental_nordling_water_god_name:0 "Вейопатис"
+ continental_nordling_water_god_name_possessive:0 "Вейопатиса"
+
+ continental_nordling_house_of_worship:0 "храм"
+ continental_nordling_house_of_worship_plural:0 "храмы"
+ continental_nordling_religious_symbol:0 "идол"
+ continental_nordling_religious_text:0 "священные истории"
+ continental_nordling_religious_head_title:0 "верховный жрец"
+ continental_nordling_religious_head_title_name:0 "первосвященство"
+ continental_nordling_devotee:0 "последователь"
+ continental_nordling_devoteeplural:0 "последователи"
+ continental_nordling_priest:0 "священик"
+ continental_nordling_priest_plural:0 "священики"
+ continental_nordling_priest_alternate_plural:1 "мудрейший"
+ continental_nordling_bishop:0 "верховный жрец"
+ continental_nordling_bishop_plural:0 "верховные жрецы"
+ continental_nordling_divine_realm:0 "Вайрадж"
+ witchgodname_continental_nordling_the_shadow:0 "$continental_nordling_trickster_god_name$"
+ witchgodname_continental_nordling_the_shadow_possessive:0 "$continental_nordling_trickster_god_name_possessive$"
+
+#  Faiths
+
+#   Nordling (Fallback)
+
+ nordling:0 "Нордлинск"
+ nordling_adj:0 "Нордлингство"
+ nordling_adherent:0 "Нордлинг"
+ nordling_adherent_plural:0 "Нордлинги"
+ nordling_desc:0 "Нордлинги поклоняются бесчисленным духам и божествам."
+
+#   Melitele
+
+ melitele:0 "Мелитэлеск"
+ melitele_adj:0 "Культ Мелитэле"
+ melitele_adherent:0 "Последователь культа Мелетеле"
+ melitele_adherent_plural:0 "Последователи культа Мелетеле"
+ melitele_desc:0 "Последователи Мелитэле восхваляют ее тройственную форму: Деву, Мать и Старуху. Дева - это безупречный аспект юношеской любви Мелитэле. Таким образом, мать - самый популярный аспект Мелитэле, помогающий семьям в родах и наблюдающий за акушерками. Старуха - это почитаемый аспект мудрости и благоразумия богини. Культ Мелитэле процветает во всех сферах, рассчитывая на общую потребность в ее благословениях."
+
+#   Huldra
+
+ huldra:0 "Халдрск"
+ huldra_adj:0 "Культ Халдры"
+ huldra_adherent:0 "Последователь культа Хальдры"
+ huldra_adherent_plural:0 "Последователи культа Хальдры"
+ huldra_desc:0 "Богиня любви, богатства и скота благословляет своих последователей за их усердный труд и жертвы во имя нее. Храмы Хульдры богаты в своих скрытых нишах, прославляя тайны похоти и здоровья богини с помощью изысканного убранства и гедонистических ритуалов — некоторые даже говорят, что сама богиня присоединяется к ним в облике женщины, идущей на копытах вместо ног, с хвостом животного, свистящим позади нее. Зрелище этих обрядов не ускользает от внимания простых людей, которые зависят от благословений Халдры для своих стад."
+
+#   Veyopatis
+
+ veyopatis:0 "Вейопатиск"
+ veyopatis_adj:0 "Культ Вейопатиса"
+ veyopatis_adherent:0 "Последователь культа Вейопатиса
+ veyopatis_adherent_plural:0 "Последователи культа Вейопатиса
+ veyopatis_desc:0 "Страж странников ведет своих последователей по непроходимым пустошам. Его дары прибывают в полных сетях и корзинах, отвечающих на смиренные молитвы водников на реках и озерах и собирателей в лесах и зарослях на склонах холмов. Хотя святилища и ритуалы Повелителя Путей являются тайными и странными для посторонних, его верующие рассчитывают на его защиту в трудные времена и в опасных путешествиях."
+
+#   Lilvani
+
+ lilvani:0 "Лильванск"
+ lilvani_adj:0 "Культ Лильвани"
+ lilvani_adherent:0 "Последователь культа Лильвани"
+ lilvani_adherent_plural:0 "Последователи культа Лильвани"
+ lilvani_desc:0 "Богиня луны держит судьбы своих последователей в своих сияющих руках. Ее постоянные фазы гарантируют ее ученикам долгую жизнь и крепкое здоровье, обещая снова восстановиться, даже когда того пожелает судьба. Ее последователи строят огромные каменные храмы во имя нее, где они могут быть ближе всего к своей богине."
+
+#   Epona
+
+ epona:0 "Эпонск"
+ epona_adj:0 "Культ Эпоны"
+ epona_adherent:0 "Последователь культа Эпоны"
+ epona_adherent_plural:0 "Последователи культа Эпоны"
+ epona_desc:0 "Великая богиня солнца, лошадей и войны присматривает за путешественниками и воинами. Ее благословения очищают небеса над полями и тропами ее почитателей, облегчают копыта их коней и оттачивают их клинки. Жертвоприношения громоздятся у ног статуй, вырезанных в ее лошадином образе, доказательство веры, которую она внушает пастухам и всадникам, направляющимся на битву."
